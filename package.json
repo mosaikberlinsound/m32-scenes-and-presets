@@ -1,0 +1,28 @@
+{
+  "name": "m32-scenes-and-presets",
+  "version": "0.0.1",
+  "description": "The Mosaik Berlin's sound board configuration files (i.e., Midas M32) are version controlled in this repo.",
+  "main": "README.md",
+  "scripts": {
+    "release": "standard-version",
+    "major-release": "standard-version --release-as major"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosaikberlinsound/m32-scenes-and-presets.git"
+  },
+  "keywords": [
+    "sound",
+    "scene-file",
+    "midasM32"
+  ],
+  "author": "Mosaikkirche Berlin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mosaikberlinsound/m32-scenes-and-presets/issues"
+  },
+  "homepage": "https://github.com/mosaikberlinsound/m32-scenes-and-presets#readme",
+  "dependencies": {
+    "standard-version": "^9.3.1"
+  }
+}

@@ -4,6 +4,7 @@
   "description": "The Mosaik Berlin's sound board configuration files (i.e., Midas M32) are version controlled in this repo.",
   "main": "README.md",
   "scripts": {
+    "push": "git push --follow-tags origin main",
     "release": "standard-version",
     "major-release": "standard-version --release-as major"
   },

@@ -325,7 +325,7 @@
 /ch/10/gate/filter OFF 3.0 990.9
 /ch/10/dyn ON COMP PEAK LOG 0.0 4.0 3 2.00 25 0.02  20 POST 0 100 OFF
 /ch/10/dyn/filter ON 1.0 101.4
-/ch/10/insert OFF POST FX6L
+/ch/10/insert OFF POST OFF
 /ch/10/eq ON
 /ch/10/eq/1 PEQ 677.7 +11.0 1.7
 /ch/10/eq/2 PEQ 209.4 -7.00 1.9
@@ -581,7 +581,7 @@
 /ch/18/gate/filter OFF 3.0 990.9
 /ch/18/dyn ON COMP PEAK LOG 0.0 3.0 4 0.00 10 0.02  40 POST 0 100 OFF
 /ch/18/dyn/filter ON 1.0 1k97
-/ch/18/insert OFF POST FX7R
+/ch/18/insert OFF POST OFF
 /ch/18/eq ON
 /ch/18/eq/1 LShv 363.9 -3.00 2.0
 /ch/18/eq/2 PEQ 496.6 -5.25 0.5
@@ -645,7 +645,7 @@
 /ch/20/gate/filter OFF 3.0 990.9
 /ch/20/dyn OFF COMP PEAK LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /ch/20/dyn/filter OFF 3.0 990.9
-/ch/20/insert OFF PRE OFF
+/ch/20/insert OFF POST OFF
 /ch/20/eq ON
 /ch/20/eq/1 PEQ 124.7 +0.00 2.0
 /ch/20/eq/2 PEQ 496.6 +0.00 2.0
@@ -997,7 +997,7 @@
 /ch/31/gate/filter OFF 3.0 990.9
 /ch/31/dyn ON COMP PEAK LOG 0.0 3.0 5 0.00 10 0.02  40 POST 0 100 OFF
 /ch/31/dyn/filter OFF 3.0 990.9
-/ch/31/insert ON PRE FX5L
+/ch/31/insert ON PRE FX7L
 /ch/31/eq ON
 /ch/31/eq/1 LShv 611.0 -3.00 2.0
 /ch/31/eq/2 PEQ 611.0 -5.75 2.1
@@ -1029,7 +1029,7 @@
 /ch/32/gate/filter OFF 3.0 990.9
 /ch/32/dyn ON COMP PEAK LOG 0.0 3.0 5 1.00 10 0.02  55 POST 0 100 ON
 /ch/32/dyn/filter OFF 3.0 990.9
-/ch/32/insert ON PRE FX5R
+/ch/32/insert ON PRE FX7R
 /ch/32/eq ON
 /ch/32/eq/1 PEQ 496.6 -7.00 1.4
 /ch/32/eq/2 PEQ 701.5 -12.5 7.4
@@ -1449,7 +1449,7 @@
 /bus/01/config "Drums L" 1 CY
 /bus/01/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  471 POST 0 100 OFF
 /bus/01/dyn/filter OFF 3.0 990.9
-/bus/01/insert OFF PRE OFF
+/bus/01/insert OFF POST OFF
 /bus/01/eq OFF
 /bus/01/eq/1 LShv 79.6 +0.00 2.0
 /bus/01/eq/2 PEQ 158.9 +0.00 2.0
@@ -1468,7 +1468,7 @@
 /bus/02/config "Drums R" 1 CY
 /bus/02/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  471 POST 0 100 OFF
 /bus/02/dyn/filter OFF 3.0 990.9
-/bus/02/insert OFF PRE OFF
+/bus/02/insert OFF POST OFF
 /bus/02/eq OFF
 /bus/02/eq/1 LShv 79.6 +0.00 2.0
 /bus/02/eq/2 PEQ 158.9 +0.00 2.0
@@ -1487,7 +1487,7 @@
 /bus/03/config "Bass L" 1 CY
 /bus/03/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  504 POST 0 100 OFF
 /bus/03/dyn/filter OFF 3.0 990.9
-/bus/03/insert OFF PRE OFF
+/bus/03/insert OFF POST OFF
 /bus/03/eq OFF
 /bus/03/eq/1 LShv 79.6 +0.00 2.0
 /bus/03/eq/2 PEQ 158.9 +0.00 2.0
@@ -1506,7 +1506,7 @@
 /bus/04/config "Bass R" 1 CY
 /bus/04/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  504 POST 0 100 OFF
 /bus/04/dyn/filter OFF 3.0 990.9
-/bus/04/insert OFF PRE OFF
+/bus/04/insert OFF POST OFF
 /bus/04/eq OFF
 /bus/04/eq/1 LShv 79.6 +0.00 2.0
 /bus/04/eq/2 PEQ 158.9 +0.00 2.0
@@ -1525,7 +1525,7 @@
 /bus/05/config "Git L" 1 CY
 /bus/05/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  504 POST 0 100 OFF
 /bus/05/dyn/filter OFF 3.0 990.9
-/bus/05/insert OFF PRE OFF
+/bus/05/insert OFF POST OFF
 /bus/05/eq OFF
 /bus/05/eq/1 LShv 79.6 +0.00 2.0
 /bus/05/eq/2 PEQ 158.9 +0.00 2.0
@@ -1544,7 +1544,7 @@
 /bus/06/config "Git R" 1 CY
 /bus/06/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  504 POST 0 100 OFF
 /bus/06/dyn/filter OFF 3.0 990.9
-/bus/06/insert OFF PRE OFF
+/bus/06/insert OFF POST OFF
 /bus/06/eq OFF
 /bus/06/eq/1 LShv 79.6 +0.00 2.0
 /bus/06/eq/2 PEQ 158.9 +0.00 2.0
@@ -1563,7 +1563,7 @@
 /bus/07/config "Keys L" 1 CY
 /bus/07/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  504 POST 0 100 OFF
 /bus/07/dyn/filter OFF 3.0 990.9
-/bus/07/insert OFF PRE OFF
+/bus/07/insert OFF POST OFF
 /bus/07/eq OFF
 /bus/07/eq/1 LShv 79.6 +0.00 2.0
 /bus/07/eq/2 PEQ 158.9 +0.00 2.0
@@ -1582,7 +1582,7 @@
 /bus/08/config "Keys R" 1 CY
 /bus/08/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  504 POST 0 100 OFF
 /bus/08/dyn/filter OFF 3.0 990.9
-/bus/08/insert OFF PRE OFF
+/bus/08/insert OFF POST OFF
 /bus/08/eq OFF
 /bus/08/eq/1 LShv 79.6 +0.00 2.0
 /bus/08/eq/2 PEQ 158.9 +0.00 2.0
@@ -1601,7 +1601,7 @@
 /bus/09/config "Vox L" 1 CY
 /bus/09/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  504 POST 0 100 OFF
 /bus/09/dyn/filter OFF 3.0 990.9
-/bus/09/insert OFF PRE OFF
+/bus/09/insert OFF POST OFF
 /bus/09/eq OFF
 /bus/09/eq/1 LShv 79.6 +0.00 2.0
 /bus/09/eq/2 PEQ 158.9 +0.00 2.0
@@ -1620,7 +1620,7 @@
 /bus/10/config "Vox R" 1 CY
 /bus/10/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  504 POST 0 100 OFF
 /bus/10/dyn/filter OFF 3.0 990.9
-/bus/10/insert OFF PRE OFF
+/bus/10/insert OFF POST OFF
 /bus/10/eq OFF
 /bus/10/eq/1 LShv 79.6 +0.00 2.0
 /bus/10/eq/2 PEQ 158.9 +0.00 2.0
@@ -1696,7 +1696,7 @@
 /bus/14/config "ACU REV" 1 MG
 /bus/14/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/14/dyn/filter OFF 3.0 990.9
-/bus/14/insert OFF PRE OFF
+/bus/14/insert OFF POST OFF
 /bus/14/eq ON
 /bus/14/eq/1 LShv 79.6 +0.00 2.0
 /bus/14/eq/2 PEQ 158.9 +0.00 2.0
@@ -1715,7 +1715,7 @@
 /bus/15/config "VOX REV" 1 MG
 /bus/15/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/15/dyn/filter OFF 3.0 990.9
-/bus/15/insert OFF PRE OFF
+/bus/15/insert OFF POST OFF
 /bus/15/eq OFF
 /bus/15/eq/1 LShv 79.6 +0.00 2.0
 /bus/15/eq/2 PEQ 158.9 +0.00 2.0
@@ -1734,7 +1734,7 @@
 /bus/16/config "VOX DELAY" 1 MG
 /bus/16/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/16/dyn/filter OFF 3.0 990.9
-/bus/16/insert OFF PRE OFF
+/bus/16/insert OFF POST OFF
 /bus/16/eq OFF
 /bus/16/eq/1 LShv 79.6 +0.00 2.0
 /bus/16/eq/2 PEQ 158.9 +0.00 2.0
@@ -1754,7 +1754,7 @@
 /mtx/01/preamp OFF
 /mtx/01/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
 /mtx/01/dyn/filter OFF 3.0 990.9
-/mtx/01/insert OFF PRE OFF
+/mtx/01/insert OFF POST OFF
 /mtx/01/eq ON
 /mtx/01/eq/1 LCut 158.9 +0.00 2.0
 /mtx/01/eq/2 PEQ 158.9 +0.00 2.0
@@ -1767,7 +1767,7 @@
 /mtx/02/preamp OFF
 /mtx/02/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
 /mtx/02/dyn/filter OFF 3.0 990.9
-/mtx/02/insert OFF PRE OFF
+/mtx/02/insert OFF POST OFF
 /mtx/02/eq ON
 /mtx/02/eq/1 LCut 158.9 +0.00 2.0
 /mtx/02/eq/2 PEQ 158.9 +0.00 2.0
@@ -1780,7 +1780,7 @@
 /mtx/03/preamp OFF
 /mtx/03/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
 /mtx/03/dyn/filter OFF 3.0 990.9
-/mtx/03/insert OFF PRE OFF
+/mtx/03/insert OFF POST OFF
 /mtx/03/eq ON
 /mtx/03/eq/1 LCut 116.4 +0.00 2.0
 /mtx/03/eq/2 PEQ 158.9 +0.00 2.0
@@ -1793,7 +1793,7 @@
 /mtx/04/preamp OFF
 /mtx/04/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
 /mtx/04/dyn/filter OFF 3.0 990.9
-/mtx/04/insert OFF PRE OFF
+/mtx/04/insert OFF POST OFF
 /mtx/04/eq ON
 /mtx/04/eq/1 LCut 116.4 +0.00 2.0
 /mtx/04/eq/2 PEQ 158.9 +0.00 2.0
@@ -1806,8 +1806,8 @@
 /mtx/05/preamp OFF
 /mtx/05/dyn ON COMP RMS LOG -15.0 3.0 5 0.00 10 10.0  151 POST 100 ON
 /mtx/05/dyn/filter OFF 3.0 990.9
-/mtx/05/insert OFF PRE OFF
-/mtx/05/eq ON
+/mtx/05/insert OFF POST OFF
+/mtx/05/eq OFF
 /mtx/05/eq/1 LShv 79.6 +0.00 2.0
 /mtx/05/eq/2 PEQ 158.9 +0.00 2.0
 /mtx/05/eq/3 PEQ 496.6 +0.00 2.0
@@ -1819,8 +1819,8 @@
 /mtx/06/preamp OFF
 /mtx/06/dyn ON COMP RMS LOG -15.0 3.0 5 0.00 10 10.0  151 POST 100 ON
 /mtx/06/dyn/filter OFF 3.0 990.9
-/mtx/06/insert OFF PRE OFF
-/mtx/06/eq ON
+/mtx/06/insert OFF POST OFF
+/mtx/06/eq OFF
 /mtx/06/eq/1 LShv 79.6 +0.00 2.0
 /mtx/06/eq/2 PEQ 158.9 +0.00 2.0
 /mtx/06/eq/3 PEQ 496.6 +0.00 2.0
@@ -1896,8 +1896,8 @@
 /fx/5/par 15.0 14.0 20.0 20.0 MALE MALE 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 /fx/6 ULC
 /fx/6/par ON -24 -23 1.0 1.9 ALL 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-/fx/7 LEC
-/fx/7/par ON 44 48 COMP 1.0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/fx/7 GEQ2
+/fx/7/par 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.5 4.0 -4.0 1.5 0.5 -4.5 0.0 -5.5 -1.5 -1.0 -1.0 -3.5 0.5 1.5 -2.5 -1.0 1.5 1.5 2.0 1.5 1.5 1.0 0.5 0.0
 /fx/8 TEQ
 /fx/8/par 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 /outputs/main/01 4 POST OFF

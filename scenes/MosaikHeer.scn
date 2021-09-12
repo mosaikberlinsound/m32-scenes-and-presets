@@ -1305,9 +1305,9 @@
 /fxrtn/03/config "vox rev" 1 MG
 /fxrtn/03/eq ON
 /fxrtn/03/eq/1 LCut 164.4 +0.00 2.0
-/fxrtn/03/eq/2 PEQ 306.2 -5.75 0.6
-/fxrtn/03/eq/3 PEQ 1k97 +0.00 2.0
-/fxrtn/03/eq/4 HShv 5k20 -6.50 2.0
+/fxrtn/03/eq/2 PEQ 317.0 -11.7 0.6
+/fxrtn/03/eq/3 PEQ 990.9 +2.50 0.8
+/fxrtn/03/eq/4 HShv 3k94 -10.7 2.0
 /fxrtn/03/mix ON  +0.0 ON -100 OFF   -oo
 /fxrtn/03/mix/01 ON -20.0 -100 POST
 /fxrtn/03/mix/02 ON -20.0
@@ -1329,9 +1329,9 @@
 /fxrtn/04/config "vox rev" 1 MG
 /fxrtn/04/eq ON
 /fxrtn/04/eq/1 LCut 164.4 +0.00 2.0
-/fxrtn/04/eq/2 PEQ 306.2 -5.75 0.6
-/fxrtn/04/eq/3 PEQ 1k97 +0.00 2.0
-/fxrtn/04/eq/4 HShv 5k20 -6.50 2.0
+/fxrtn/04/eq/2 PEQ 317.0 -11.7 0.6
+/fxrtn/04/eq/3 PEQ 990.9 +2.50 0.8
+/fxrtn/04/eq/4 HShv 3k94 -10.7 2.0
 /fxrtn/04/mix ON  +0.0 ON +100 OFF   -oo
 /fxrtn/04/mix/01 ON -20.0 +100 POST
 /fxrtn/04/mix/02 ON -20.0
@@ -1352,10 +1352,10 @@
 /fxrtn/04/grp %00100000 %000000
 /fxrtn/05/config "vox delay" 1 MG
 /fxrtn/05/eq ON
-/fxrtn/05/eq/1 LCut 403.7 +0.50 2.0
+/fxrtn/05/eq/1 LCut 532.1 +0.50 2.0
 /fxrtn/05/eq/2 PEQ 496.6 +0.00 2.0
 /fxrtn/05/eq/3 PEQ 1k97 +0.00 2.0
-/fxrtn/05/eq/4 HCut 1k30 +0.50 2.0
+/fxrtn/05/eq/4 HCut 2k27 +0.50 2.0
 /fxrtn/05/mix ON   -oo ON -100 OFF   -oo
 /fxrtn/05/mix/01 ON -20.0 -100 POST
 /fxrtn/05/mix/02 ON -20.0
@@ -1376,10 +1376,10 @@
 /fxrtn/05/grp %00100000 %000000
 /fxrtn/06/config "vox delay" 1 MG
 /fxrtn/06/eq ON
-/fxrtn/06/eq/1 LCut 403.7 +0.50 2.0
+/fxrtn/06/eq/1 LCut 532.1 +0.50 2.0
 /fxrtn/06/eq/2 PEQ 496.6 +0.00 2.0
 /fxrtn/06/eq/3 PEQ 1k97 +0.00 2.0
-/fxrtn/06/eq/4 HCut 1k30 +0.50 2.0
+/fxrtn/06/eq/4 HCut 2k27 +0.50 2.0
 /fxrtn/06/mix ON   -oo ON +100 OFF   -oo
 /fxrtn/06/mix/01 ON -20.0 +100 POST
 /fxrtn/06/mix/02 ON -20.0

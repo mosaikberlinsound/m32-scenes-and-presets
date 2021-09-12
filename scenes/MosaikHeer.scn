@@ -510,7 +510,7 @@
 /ch/15/mix/16 ON   -oo
 /ch/15/grp %00000010 %000000
 /ch/15/automix OFF  +0.0
-/ch/16/config "Ch 16" 1 GN 16
+/ch/16/config "Ch 16" 1 OFF 16
 /ch/16/delay OFF   0.3
 /ch/16/preamp -18.0 OFF ON 24  57
 /ch/16/gate OFF GATE -80.0 60.0 1  502  983 0
@@ -766,7 +766,7 @@
 /ch/23/mix/16 OFF   -oo
 /ch/23/grp %00000000 %000000
 /ch/23/automix OFF  +0.0
-/ch/24/config "Ambient R" 1 WHi 24
+/ch/24/config "Ch 24" 1 OFF 24
 /ch/24/delay OFF   0.3
 /ch/24/preamp -18.0 OFF ON 24 168
 /ch/24/gate OFF GATE -80.0 60.0 1  502  983 0

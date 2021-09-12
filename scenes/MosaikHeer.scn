@@ -10,7 +10,7 @@
 /config/solo  +4.3 LR+C 0.0 PFL PFL PFL OFF OFF OFF -20 OFF OFF ON  37.9 OFF OFF OFF
 /config/talk ON INT
 /config/talk/A  +2.3 OFF ON %000000001111111111
-/config/talk/B -11.0 OFF ON %000000000000000000
+/config/talk/B -11.0 OFF ON %010000000000000000
 /config/osc -41.0 100.2 1k00 F1 PINK 18
 /config/routing REC
 /config/routing/IN A1-8 A9-16 A17-24 A25-32 AUX1-4

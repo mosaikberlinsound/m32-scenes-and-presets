@@ -2,6 +2,30 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v2.0.0...v3.0.0) (2021-09-12)
+
+
+### Features
+
+* add room mics to the Livestream during the ([d756643](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/d756643a9da447d34df113e7926893aa5a831624))
+* adding a Preach ch for Livestream ([ebf9346](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/ebf9346a0839b684609b4daeaa6a9082bae23226))
+* adding TALK B to master ([ac90d4d](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/ac90d4da928602c28c3a1d0f09f048cd2880fc12))
+* adjusted EQ for effect return, clearer sound ([ed766ce](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/ed766ce517e186f1f44e278eb8c0749102d95b7d))
+* adjusted EQs for wireless mics ([809a98f](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/809a98fc4ebd0e2f08e0a0905983ec416abd54f9))
+* making the bass guitar warmer ([ab7283e](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/ab7283edddfb2e5606d547c9ec2e4263d616fa74))
+* making the Keys cleaner ([7272486](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/7272486dd2d9b436417910cf21d8a1d43cc2ac51))
+* optimize MDs, Click, Guide ([f7ba12d](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/f7ba12d6f648948e346566e87d3eefe72173a11e))
+* Restructured DCA groups ([3870e70](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/3870e700e7afc8106dc9d56c15f6b1b95de11a0f))
+* update livestream mix and send Speach to IEM ([db13cb6](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/db13cb680646cb2792d626c85cff61dbd1879fd5))
+
+
+### Bug Fixes
+
+* EQs for speakers off and X6 louder than X4 ([285c2a2](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/285c2a2aafbce1e72e9e127d7e310e6918f05dc7))
+* naming and level issues ([5b9c68f](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/5b9c68f227dbb7f581fc443b09739333104d8e0a))
+* set level faders down to -oo ([38d76df](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/38d76dfaaf867c7e141ad6b809af30f54ed5c9ca))
+* switching not needed channels off ([8d55ff3](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/8d55ff3b1297babfa8cb134bf3acffebdc270eab))
+
 ## [2.0.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v1.0.0...v2.0.0) (2021-08-28)
 
 

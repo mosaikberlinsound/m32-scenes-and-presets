@@ -1755,40 +1755,40 @@
 /mtx/01/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
 /mtx/01/dyn/filter OFF 3.0 990.9
 /mtx/01/insert OFF POST OFF
-/mtx/01/eq ON
-/mtx/01/eq/1 LCut 158.9 +0.00 2.0
+/mtx/01/eq OFF
+/mtx/01/eq/1 LCut 62.5 +0.00 2.0
 /mtx/01/eq/2 PEQ 158.9 +0.00 2.0
 /mtx/01/eq/3 PEQ 496.6 +0.00 2.0
 /mtx/01/eq/4 PEQ 1k97 +0.00 2.0
 /mtx/01/eq/5 PEQ 5k02 +0.00 2.0
 /mtx/01/eq/6 HShv 10k02 +0.00 2.0
-/mtx/01/mix ON  -8.2
+/mtx/01/mix ON  -5.0
 /mtx/02/config "X4" 1 WHi
 /mtx/02/preamp OFF
 /mtx/02/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
 /mtx/02/dyn/filter OFF 3.0 990.9
 /mtx/02/insert OFF POST OFF
-/mtx/02/eq ON
+/mtx/02/eq OFF
 /mtx/02/eq/1 LCut 158.9 +0.00 2.0
 /mtx/02/eq/2 PEQ 158.9 +0.00 2.0
 /mtx/02/eq/3 PEQ 496.6 +0.00 2.0
 /mtx/02/eq/4 PEQ 1k97 +0.00 2.0
 /mtx/02/eq/5 PEQ 5k02 +0.00 2.0
 /mtx/02/eq/6 HShv 10k02 +0.00 2.0
-/mtx/02/mix ON  -8.1
+/mtx/02/mix ON  -9.0
 /mtx/03/config "i5" 1 WHi
 /mtx/03/preamp OFF
 /mtx/03/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
 /mtx/03/dyn/filter OFF 3.0 990.9
 /mtx/03/insert OFF POST OFF
-/mtx/03/eq ON
+/mtx/03/eq OFF
 /mtx/03/eq/1 LCut 116.4 +0.00 2.0
 /mtx/03/eq/2 PEQ 158.9 +0.00 2.0
 /mtx/03/eq/3 PEQ 496.6 +0.00 2.0
 /mtx/03/eq/4 PEQ 1k97 +0.00 2.0
 /mtx/03/eq/5 PEQ 5k02 +0.00 2.0
 /mtx/03/eq/6 HShv 20k00 +0.00 2.0
-/mtx/03/mix ON   -oo
+/mtx/03/mix ON  -9.0
 /mtx/04/config "" 1 OFF
 /mtx/04/preamp OFF
 /mtx/04/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
@@ -1801,7 +1801,7 @@
 /mtx/04/eq/4 PEQ 1k97 +0.00 2.0
 /mtx/04/eq/5 PEQ 5k02 +0.00 2.0
 /mtx/04/eq/6 HShv 20k00 +0.00 2.0
-/mtx/04/mix ON   0.0
+/mtx/04/mix ON   -oo
 /mtx/05/config "STREAM L" 1 WHi
 /mtx/05/preamp OFF
 /mtx/05/dyn ON COMP PEAK LOG -6.0 5.0 2 0.00 6 10.0  198 POST 100 OFF
@@ -1829,7 +1829,7 @@
 /mtx/06/eq/6 HShv 10k02 +0.00 2.0
 /mtx/06/mix ON  -9.2
 /main/st/config "" 66 WH
-/main/st/dyn OFF COMP RMS LOG -1.0 7.0 1 0.00 10 10.0  151 POST 100 OFF
+/main/st/dyn ON COMP RMS LOG 0.0 7.0 5 0.00 10 10.0  151 POST 100 ON
 /main/st/dyn/filter OFF 3.0 990.9
 /main/st/insert ON PRE FX8L
 /main/st/eq OFF
@@ -1839,7 +1839,7 @@
 /main/st/eq/4 PEQ 1k97 +0.00 2.0
 /main/st/eq/5 PEQ 5k02 +0.00 2.0
 /main/st/eq/6 HShv 10k02 +0.00 2.0
-/main/st/mix ON  -7.5 +0
+/main/st/mix ON  -2.7 +0
 /main/st/mix/01 ON   0.0 +0 POST
 /main/st/mix/02 ON   0.0
 /main/st/mix/03 ON   0.0 +0 POST
@@ -1857,7 +1857,7 @@
 /main/m/eq/4 PEQ 1k97 +0.00 2.0
 /main/m/eq/5 PEQ 5k02 +0.00 2.0
 /main/m/eq/6 HCut 120.5 +0.00 2.0
-/main/m/mix ON  -9.1
+/main/m/mix ON  -7.6
 /main/m/mix/01 OFF   -oo +0 POST
 /main/m/mix/02 OFF   -oo
 /main/m/mix/03 OFF   -oo +0 POST

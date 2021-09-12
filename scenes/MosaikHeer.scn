@@ -931,15 +931,15 @@
 /ch/29/preamp +0.0 OFF ON 24  64
 /ch/29/gate OFF GATE -80.0 60.0 1  502  983 0
 /ch/29/gate/filter OFF 3.0 990.9
-/ch/29/dyn OFF COMP PEAK LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
+/ch/29/dyn ON COMP RMS LOG -30.0 3.0 2 2.00 43 10.0  173 POST 0 100 OFF
 /ch/29/dyn/filter OFF 3.0 990.9
 /ch/29/insert OFF POST OFF
-/ch/29/eq OFF
-/ch/29/eq/1 PEQ 124.7 +0.00 2.0
-/ch/29/eq/2 PEQ 496.6 +0.00 2.0
-/ch/29/eq/3 PEQ 1k97 +0.00 2.0
-/ch/29/eq/4 HShv 10k02 +0.00 2.0
-/ch/29/mix OFF   -oo ON +0 OFF   -oo
+/ch/29/eq ON
+/ch/29/eq/1 PEQ 176.2 -1.25 1.0
+/ch/29/eq/2 PEQ 726.2 -2.25 2.0
+/ch/29/eq/3 PEQ 2k27 +0.00 2.0
+/ch/29/eq/4 HShv 6k18 +1.00 2.0
+/ch/29/mix ON  +0.0 OFF +0 OFF   -oo
 /ch/29/mix/01 ON   -oo +0 PRE
 /ch/29/mix/02 ON   -oo
 /ch/29/mix/03 ON   -oo +0 PRE
@@ -950,13 +950,13 @@
 /ch/29/mix/08 ON   -oo
 /ch/29/mix/09 ON   -oo +0 PRE
 /ch/29/mix/10 ON   -oo
-/ch/29/mix/11 ON   -oo +0 POST
-/ch/29/mix/12 ON   -oo
+/ch/29/mix/11 ON  +0.0 +0 POST
+/ch/29/mix/12 ON  +0.0
 /ch/29/mix/13 ON   -oo +0 POST
 /ch/29/mix/14 ON   -oo
 /ch/29/mix/15 ON   -oo +0 POST
 /ch/29/mix/16 ON   -oo
-/ch/29/grp %00000000 %000000
+/ch/29/grp %01000000 %000000
 /ch/29/automix OFF  +0.0
 /ch/30/config "HandH FF" 1 YEi 30
 /ch/30/delay OFF   0.3

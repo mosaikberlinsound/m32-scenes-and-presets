@@ -1112,8 +1112,8 @@
 /auxin/03/eq/3 PEQ 1k97 +0.00 2.0
 /auxin/03/eq/4 HShv 10k02 +0.00 2.0
 /auxin/03/mix OFF   -oo ON -100 ON   -oo
-/auxin/03/mix/01 ON   -oo -100 POST
-/auxin/03/mix/02 ON   -oo
+/auxin/03/mix/01 ON -21.0 -100 POST
+/auxin/03/mix/02 ON -21.0
 /auxin/03/mix/03 ON -21.0 -100 POST
 /auxin/03/mix/04 ON -21.0
 /auxin/03/mix/05 ON -21.0 -100 POST
@@ -1137,8 +1137,8 @@
 /auxin/04/eq/3 PEQ 1k97 +0.00 2.0
 /auxin/04/eq/4 HShv 10k02 +0.00 2.0
 /auxin/04/mix OFF   -oo ON +100 ON   -oo
-/auxin/04/mix/01 ON   -oo +100 POST
-/auxin/04/mix/02 ON   -oo
+/auxin/04/mix/01 ON -21.0 +100 POST
+/auxin/04/mix/02 ON -21.0
 /auxin/04/mix/03 ON -21.0 +100 POST
 /auxin/04/mix/04 ON -21.0
 /auxin/04/mix/05 ON -21.0 +100 POST
@@ -1162,16 +1162,16 @@
 /auxin/05/eq/3 PEQ 1k97 +0.00 2.0
 /auxin/05/eq/4 HShv 10k02 +0.00 2.0
 /auxin/05/mix ON  -5.0 ON -100 ON -10.0
-/auxin/05/mix/01 ON -20.0 -100 POST
-/auxin/05/mix/02 ON -20.0
-/auxin/05/mix/03 ON -20.0 -100 POST
-/auxin/05/mix/04 ON -20.0
-/auxin/05/mix/05 ON -20.0 -100 POST
-/auxin/05/mix/06 ON -20.0
-/auxin/05/mix/07 ON -20.0 -100 POST
-/auxin/05/mix/08 ON -20.0
-/auxin/05/mix/09 ON -20.0 +0 POST
-/auxin/05/mix/10 ON -20.0
+/auxin/05/mix/01 ON -21.0 -100 POST
+/auxin/05/mix/02 ON -21.0
+/auxin/05/mix/03 ON -21.0 -100 POST
+/auxin/05/mix/04 ON -21.0
+/auxin/05/mix/05 ON -21.0 -100 POST
+/auxin/05/mix/06 ON -21.0
+/auxin/05/mix/07 ON -21.0 -100 POST
+/auxin/05/mix/08 ON -21.0
+/auxin/05/mix/09 ON -21.0 +0 POST
+/auxin/05/mix/10 ON -21.0
 /auxin/05/mix/11 ON -25.0 -100 POST
 /auxin/05/mix/12 ON -25.0
 /auxin/05/mix/13 ON -20.0 -100 POST
@@ -1187,16 +1187,16 @@
 /auxin/06/eq/3 PEQ 1k97 +0.00 2.0
 /auxin/06/eq/4 HShv 10k02 +0.00 2.0
 /auxin/06/mix ON  -5.0 ON -100 ON -10.0
-/auxin/06/mix/01 ON -20.0 +100 POST
-/auxin/06/mix/02 ON -20.0
-/auxin/06/mix/03 ON -20.0 +100 POST
-/auxin/06/mix/04 ON -20.0
-/auxin/06/mix/05 ON -20.0 +100 POST
-/auxin/06/mix/06 ON -20.0
-/auxin/06/mix/07 ON -20.0 +100 POST
-/auxin/06/mix/08 ON -20.0
-/auxin/06/mix/09 ON -20.0 +0 POST
-/auxin/06/mix/10 ON -20.0
+/auxin/06/mix/01 ON -21.0 +100 POST
+/auxin/06/mix/02 ON -21.0
+/auxin/06/mix/03 ON -21.0 +100 POST
+/auxin/06/mix/04 ON -21.0
+/auxin/06/mix/05 ON -21.0 +100 POST
+/auxin/06/mix/06 ON -21.0
+/auxin/06/mix/07 ON -21.0 +100 POST
+/auxin/06/mix/08 ON -21.0
+/auxin/06/mix/09 ON -21.0 +0 POST
+/auxin/06/mix/10 ON -21.0
 /auxin/06/mix/11 ON -25.0 +100 POST
 /auxin/06/mix/12 ON -25.0
 /auxin/06/mix/13 ON -20.0 +100 POST
@@ -1220,8 +1220,8 @@
 /auxin/07/mix/06 ON   -oo
 /auxin/07/mix/07 ON   -oo +0 PRE
 /auxin/07/mix/08 ON   -oo
-/auxin/07/mix/09 ON   0.0 +0 PRE
-/auxin/07/mix/10 ON   0.0
+/auxin/07/mix/09 ON   -oo +0 PRE
+/auxin/07/mix/10 ON   -oo
 /auxin/07/mix/11 ON   -oo +0 POST
 /auxin/07/mix/12 ON   -oo
 /auxin/07/mix/13 ON   -oo +0 POST
@@ -1245,8 +1245,8 @@
 /auxin/08/mix/06 ON   -oo
 /auxin/08/mix/07 ON   -oo +0 PRE
 /auxin/08/mix/08 ON   -oo
-/auxin/08/mix/09 ON   0.0 +0 PRE
-/auxin/08/mix/10 ON   0.0
+/auxin/08/mix/09 ON   -oo +0 PRE
+/auxin/08/mix/10 ON   -oo
 /auxin/08/mix/11 ON   -oo +0 POST
 /auxin/08/mix/12 ON   -oo
 /auxin/08/mix/13 ON   -oo +0 POST
@@ -1365,8 +1365,8 @@
 /fxrtn/05/mix/06 ON -20.0
 /fxrtn/05/mix/07 ON -20.0 -100 POST
 /fxrtn/05/mix/08 ON -20.0
-/fxrtn/05/mix/09 ON -11.5 +0 POST
-/fxrtn/05/mix/10 ON -11.5
+/fxrtn/05/mix/09 ON -20.0 +0 POST
+/fxrtn/05/mix/10 ON -20.0
 /fxrtn/05/mix/11 ON  -9.3 -100 POST
 /fxrtn/05/mix/12 ON  -9.3
 /fxrtn/05/mix/13 ON -20.0 +0 POST
@@ -1389,8 +1389,8 @@
 /fxrtn/06/mix/06 ON -20.0
 /fxrtn/06/mix/07 ON -20.0 +100 POST
 /fxrtn/06/mix/08 ON -20.0
-/fxrtn/06/mix/09 ON -11.5 -2 POST
-/fxrtn/06/mix/10 ON -11.5
+/fxrtn/06/mix/09 ON -20.0 -2 POST
+/fxrtn/06/mix/10 ON -20.0
 /fxrtn/06/mix/11 ON  -9.3 +100 POST
 /fxrtn/06/mix/12 ON  -9.3
 /fxrtn/06/mix/13 ON -20.0 +0 POST
@@ -1407,8 +1407,8 @@
 /fxrtn/07/mix ON   -oo ON -100 OFF   -oo
 /fxrtn/07/mix/01 ON   -oo +0 PRE
 /fxrtn/07/mix/02 ON   -oo
-/fxrtn/07/mix/03 ON -81.0 +0 PRE
-/fxrtn/07/mix/04 ON -81.0
+/fxrtn/07/mix/03 ON   -oo +0 PRE
+/fxrtn/07/mix/04 ON   -oo
 /fxrtn/07/mix/05 ON   -oo +0 PRE
 /fxrtn/07/mix/06 ON   -oo
 /fxrtn/07/mix/07 ON   -oo +0 PRE
@@ -1431,8 +1431,8 @@
 /fxrtn/08/mix ON   -oo ON +100 OFF   -oo
 /fxrtn/08/mix/01 ON   -oo +0 PRE
 /fxrtn/08/mix/02 ON   -oo
-/fxrtn/08/mix/03 ON -81.0 +0 PRE
-/fxrtn/08/mix/04 ON -81.0
+/fxrtn/08/mix/03 ON   -oo +0 PRE
+/fxrtn/08/mix/04 ON   -oo
 /fxrtn/08/mix/05 ON   -oo +0 PRE
 /fxrtn/08/mix/06 ON   -oo
 /fxrtn/08/mix/07 ON   -oo +0 PRE
@@ -1647,7 +1647,7 @@
 /bus/11/eq/4 PEQ 1k97 +0.00 2.0
 /bus/11/eq/5 PEQ 5k02 +0.00 2.0
 /bus/11/eq/6 HShv 10k02 +0.00 2.0
-/bus/11/mix ON  -9.8 OFF -100 OFF   -oo
+/bus/11/mix ON  -5.5 OFF -100 OFF   -oo
 /bus/11/mix/01 OFF   -oo -100 POST
 /bus/11/mix/02 OFF   -oo
 /bus/11/mix/03 OFF   -oo -100 POST
@@ -1666,7 +1666,7 @@
 /bus/12/eq/4 PEQ 1k97 +0.00 2.0
 /bus/12/eq/5 PEQ 5k02 +0.00 2.0
 /bus/12/eq/6 HShv 10k02 +0.00 2.0
-/bus/12/mix ON  -9.8 OFF +100 OFF   -oo
+/bus/12/mix ON  -5.5 OFF +100 OFF   -oo
 /bus/12/mix/01 OFF   -oo +100 POST
 /bus/12/mix/02 OFF   -oo
 /bus/12/mix/03 OFF   -oo +100 POST

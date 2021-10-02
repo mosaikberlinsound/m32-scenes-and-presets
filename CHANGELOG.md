@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.0.1](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v3.0.0...v3.0.1) (2021-10-02)
+
+
+### Bug Fixes
+
+* adjust version to 3.0.1 ([04d4ff4](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/04d4ff4ede07c7d4e149eaaf3c3356503c5d0d4f))
+* channel levels for in ears ([4ba24d4](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/4ba24d49f9fb6bfaf88e05badb80ca335027740c))
+* increase volume for X4 ([cfd8f6a](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/cfd8f6ae544efb32daa3c54f19d3937e9c06b97e))
+* PC music was only left in livestream ([d2ef6e0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/d2ef6e0921c73263c8f4f18c795018b68f2e979b))
+
 ## [3.0.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v2.0.0...v3.0.0) (2021-09-12)
 
 

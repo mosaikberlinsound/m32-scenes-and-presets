@@ -843,7 +843,7 @@
 /ch/26/eq/2 PEQ 496.6 +0.00 2.0
 /ch/26/eq/3 PEQ 1k97 +0.00 2.0
 /ch/26/eq/4 HShv 10k02 +0.00 2.0
-/ch/26/mix ON   0.0 ON -100 ON  -8.0
+/ch/26/mix ON   0.0 ON +100 ON  -8.0
 /ch/26/mix/01 ON   -oo +0 PRE
 /ch/26/mix/02 ON   -oo
 /ch/26/mix/03 ON   -oo +0 PRE

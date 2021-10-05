@@ -995,7 +995,7 @@
 /ch/31/preamp -18.0 OFF ON 24 153
 /ch/31/gate OFF GATE -60.0 60.0 1  112  983 0
 /ch/31/gate/filter OFF 3.0 990.9
-/ch/31/dyn ON COMP PEAK LOG 0.0 3.0 5 0.00 10 0.02  40 POST 0 100 OFF
+/ch/31/dyn ON COMP PEAK LOG -27.0 3.0 5 3.00 10 0.02  40 POST 0 100 ON
 /ch/31/dyn/filter OFF 3.0 990.9
 /ch/31/insert ON PRE FX7L
 /ch/31/eq ON
@@ -1031,11 +1031,11 @@
 /ch/32/dyn/filter OFF 3.0 990.9
 /ch/32/insert ON PRE FX7R
 /ch/32/eq ON
-/ch/32/eq/1 VEQ 120.5 -0.75 2.6
-/ch/32/eq/2 PEQ 339.6 -4.00 1.4
-/ch/32/eq/3 PEQ 778.1 -1.00 2.0
+/ch/32/eq/1 VEQ 129.1 -1.25 1.5
+/ch/32/eq/2 PEQ 328.1 -2.00 1.6
+/ch/32/eq/3 PEQ 677.7 -1.50 1.2
 /ch/32/eq/4 HShv 7k34 -2.50 2.2
-/ch/32/mix ON   -oo ON +0 OFF -20.0
+/ch/32/mix ON   -oo ON +0 ON -26.5
 /ch/32/mix/01 ON   -oo +0 POST
 /ch/32/mix/02 ON   -oo
 /ch/32/mix/03 ON   -oo +0 POST

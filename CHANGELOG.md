@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.1.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v3.0.1...v3.1.0) (2021-10-05)
+
+
+### Features
+
+* automatic version number in scene file ([2b1a824](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/2b1a824fb72e762b956e7825fe638d7e1e1ae132))
+* compression for accoustic guitar ([8222045](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/822204558aa8f09d0ad1abd661e9989105c52971))
+* higher gain levels for most instruments ([b49e5bb](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/b49e5bb37daf647de9185edcae2e6f585ba34675))
+* introducing a 2nd MD channel ([29cc379](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/29cc379b67709086da49c7909861dd1306b51169))
+* more defensive EQ for Keys ([f4458f4](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/f4458f433b728418873df2dfb11892e39efbe7fe))
+* settings for eDrums ([ba60d3e](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/ba60d3e6a0ade6934f18eda6844026b44c5ac575))
+
+
+### Bug Fixes
+
+* optimizing wireless mic's EQ and compression ([e1ead20](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/e1ead20e6e07a719241274b7ffec8987bbbe302b))
+* panning and pre/post fader for busses ([ce9bf0c](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/ce9bf0cd2a8493bde67687f5215dc7cc1d22f58b))
+
 ### [3.0.1](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v3.0.0...v3.0.1) (2021-10-02)
 
 

@@ -1022,7 +1022,7 @@
 /ch/31/mix/16 OFF   -oo
 /ch/31/grp %01000000 %000000
 /ch/31/automix OFF  +0.0
-/ch/32/config "OverEr 1" 1 YEi 32
+/ch/32/config "Preacher" 1 YEi 32
 /ch/32/delay OFF   0.3
 /ch/32/preamp -18.0 OFF ON 24  92
 /ch/32/gate OFF GATE -80.0 60.0 1 1.26  59 0

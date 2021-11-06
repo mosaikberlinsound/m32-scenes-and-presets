@@ -288,7 +288,7 @@
 /ch/08/automix OFF -12.0
 /ch/09/config "e-drum R" 1 RD 9
 /ch/09/delay OFF   0.3
-/ch/09/preamp -18.0 OFF ON 24  57
+/ch/09/preamp -18.0 OFF ON 24  30
 /ch/09/gate OFF GATE -80.0 60.0 1  502  983 0
 /ch/09/gate/filter OFF 3.0 990.9
 /ch/09/dyn OFF COMP PEAK LOG 0.0 3.0 2 0.00 10 10.0  151 POST 0 100 OFF
@@ -931,7 +931,7 @@
 /ch/29/preamp +0.0 OFF ON 24  64
 /ch/29/gate OFF GATE -80.0 60.0 1  502  983 0
 /ch/29/gate/filter OFF 3.0 990.9
-/ch/29/dyn ON COMP RMS LOG -30.0 3.0 2 2.00 43 10.0  173 POST 0 100 OFF
+/ch/29/dyn ON COMP RMS LOG -30.0 3.0 2 2.00 43 10.0  173 POST 0 100 ON
 /ch/29/dyn/filter OFF 3.0 990.9
 /ch/29/insert OFF POST OFF
 /ch/29/eq ON

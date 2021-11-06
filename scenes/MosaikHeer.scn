@@ -256,18 +256,18 @@
 /ch/07/automix OFF -12.0
 /ch/08/config "e-drum L" 1 RD 8
 /ch/08/delay OFF   0.3
-/ch/08/preamp -18.0 OFF ON 24  57
+/ch/08/preamp -18.0 OFF ON 24  49
 /ch/08/gate OFF GATE -80.0 60.0 1  502  983 0
 /ch/08/gate/filter OFF 3.0 990.9
-/ch/08/dyn OFF COMP PEAK LOG 0.0 3.0 2 0.00 10 10.0  151 POST 0 100 OFF
+/ch/08/dyn ON COMP PEAK LOG -13.5 5.0 2 0.00 21 10.0  151 POST 0 100 OFF
 /ch/08/dyn/filter OFF 3.0 990.9
 /ch/08/insert OFF POST OFF
 /ch/08/eq ON
-/ch/08/eq/1 PEQ 124.7 +0.00 2.0
-/ch/08/eq/2 PEQ 496.6 +0.00 2.0
-/ch/08/eq/3 PEQ 1k26 +3.25 0.5
-/ch/08/eq/4 HShv 10k02 +0.00 2.0
-/ch/08/mix ON   -oo ON -100 ON   0.0
+/ch/08/eq/1 PEQ 64.7 +1.00 2.0
+/ch/08/eq/2 PEQ 257.6 -6.75 2.0
+/ch/08/eq/3 PEQ 3k09 -3.25 1.4
+/ch/08/eq/4 HShv 9k35 -2.25 2.0
+/ch/08/mix ON   -oo ON +0 ON   0.0
 /ch/08/mix/01 ON   -oo +0 PRE
 /ch/08/mix/02 ON   -oo
 /ch/08/mix/03 ON   -oo +0 PRE
@@ -278,28 +278,28 @@
 /ch/08/mix/08 ON   -oo
 /ch/08/mix/09 ON   -oo +0 PRE
 /ch/08/mix/10 ON   -oo
-/ch/08/mix/11 ON   -oo -100 POST
-/ch/08/mix/12 ON   -oo
+/ch/08/mix/11 ON  +2.8 -100 POST
+/ch/08/mix/12 ON  +2.8
 /ch/08/mix/13 ON   -oo +0 POST
-/ch/08/mix/14 ON   -oo
+/ch/08/mix/14 ON -30.0
 /ch/08/mix/15 ON   -oo +0 POST
 /ch/08/mix/16 ON   -oo
 /ch/08/grp %00000001 %000000
 /ch/08/automix OFF -12.0
 /ch/09/config "e-drum R" 1 RD 9
 /ch/09/delay OFF   0.3
-/ch/09/preamp -18.0 OFF ON 24  30
+/ch/09/preamp -18.0 OFF ON 24  49
 /ch/09/gate OFF GATE -80.0 60.0 1  502  983 0
 /ch/09/gate/filter OFF 3.0 990.9
-/ch/09/dyn OFF COMP PEAK LOG 0.0 3.0 2 0.00 10 10.0  151 POST 0 100 OFF
+/ch/09/dyn ON COMP PEAK LOG -13.5 5.0 2 0.00 21 10.0  151 POST 0 100 OFF
 /ch/09/dyn/filter OFF 3.0 990.9
 /ch/09/insert OFF POST OFF
 /ch/09/eq ON
-/ch/09/eq/1 PEQ 124.7 +0.00 2.0
-/ch/09/eq/2 PEQ 496.6 +0.00 2.0
-/ch/09/eq/3 PEQ 1k26 +3.25 0.5
-/ch/09/eq/4 HShv 10k02 +0.00 2.0
-/ch/09/mix ON   -oo ON +100 ON   0.0
+/ch/09/eq/1 PEQ 64.7 +1.00 2.0
+/ch/09/eq/2 PEQ 257.6 -6.75 2.0
+/ch/09/eq/3 PEQ 3k09 -3.25 1.4
+/ch/09/eq/4 HShv 9k35 -2.25 2.0
+/ch/09/mix ON   -oo ON +0 ON   0.0
 /ch/09/mix/01 ON   -oo +0 PRE
 /ch/09/mix/02 ON   -oo
 /ch/09/mix/03 ON   -oo +0 PRE
@@ -310,10 +310,10 @@
 /ch/09/mix/08 ON   -oo
 /ch/09/mix/09 ON   -oo +0 PRE
 /ch/09/mix/10 ON   -oo
-/ch/09/mix/11 ON   -oo +100 POST
-/ch/09/mix/12 ON   -oo
+/ch/09/mix/11 ON  +2.8 +100 POST
+/ch/09/mix/12 ON  +2.8
 /ch/09/mix/13 ON   -oo +0 POST
-/ch/09/mix/14 ON   -oo
+/ch/09/mix/14 ON -30.0
 /ch/09/mix/15 ON   -oo +0 POST
 /ch/09/mix/16 ON   -oo
 /ch/09/grp %00000001 %000000

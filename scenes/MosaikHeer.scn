@@ -571,7 +571,7 @@
 /ch/17/mix/13 ON   -oo +0 POST
 /ch/17/mix/14 ON   -oo
 /ch/17/mix/15 ON   0.0 +0 POST
-/ch/17/mix/16 ON   -oo
+/ch/17/mix/16 ON -38.0
 /ch/17/grp %00000100 %000000
 /ch/17/automix OFF  +0.0
 /ch/18/config "Voc 2" 1 WH 18
@@ -603,7 +603,7 @@
 /ch/18/mix/13 ON   -oo +0 POST
 /ch/18/mix/14 ON   -oo
 /ch/18/mix/15 ON   0.0 +0 POST
-/ch/18/mix/16 ON   -oo
+/ch/18/mix/16 ON -38.0
 /ch/18/grp %00000100 %000000
 /ch/18/automix OFF  +0.0
 /ch/19/config "Voc 3" 1 WH 19
@@ -1350,7 +1350,7 @@
 /fxrtn/04/mix/15 OFF   -oo +100 POST
 /fxrtn/04/mix/16 OFF   -oo
 /fxrtn/04/grp %00100000 %000000
-/fxrtn/05/config "vox delay" 1 MG
+/fxrtn/05/config "slap delay" 1 MG
 /fxrtn/05/eq ON
 /fxrtn/05/eq/1 LCut 532.1 +0.50 2.0
 /fxrtn/05/eq/2 PEQ 496.6 +0.00 2.0
@@ -1367,14 +1367,14 @@
 /fxrtn/05/mix/08 ON -20.0
 /fxrtn/05/mix/09 ON -20.0 -100 POST
 /fxrtn/05/mix/10 ON -20.0
-/fxrtn/05/mix/11 ON  -9.3 -100 POST
-/fxrtn/05/mix/12 ON  -9.3
+/fxrtn/05/mix/11 ON  -3.5 -100 POST
+/fxrtn/05/mix/12 ON  -3.5
 /fxrtn/05/mix/13 ON -20.0 +0 POST
 /fxrtn/05/mix/14 OFF   -oo
 /fxrtn/05/mix/15 OFF   -oo +0 POST
 /fxrtn/05/mix/16 OFF   -oo
 /fxrtn/05/grp %00100000 %000000
-/fxrtn/06/config "vox delay" 1 MG
+/fxrtn/06/config "slap delay" 1 MG
 /fxrtn/06/eq ON
 /fxrtn/06/eq/1 LCut 532.1 +0.50 2.0
 /fxrtn/06/eq/2 PEQ 496.6 +0.00 2.0
@@ -1391,8 +1391,8 @@
 /fxrtn/06/mix/08 ON -20.0
 /fxrtn/06/mix/09 ON -20.0 +100 POST
 /fxrtn/06/mix/10 ON -20.0
-/fxrtn/06/mix/11 ON  -9.3 +100 POST
-/fxrtn/06/mix/12 ON  -9.3
+/fxrtn/06/mix/11 ON  -3.5 +100 POST
+/fxrtn/06/mix/12 ON  -3.5
 /fxrtn/06/mix/13 ON -20.0 +0 POST
 /fxrtn/06/mix/14 OFF   -oo
 /fxrtn/06/mix/15 OFF   -oo +0 POST

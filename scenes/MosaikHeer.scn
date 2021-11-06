@@ -734,7 +734,7 @@
 /ch/22/mix/16 OFF   -oo
 /ch/22/grp %00000000 %000000
 /ch/22/automix OFF  +0.0
-/ch/23/config "MD 1" 1 WHi 23
+/ch/23/config "Music Direct" 1 WHi 23
 /ch/23/delay OFF   0.3
 /ch/23/preamp -18.0 OFF ON 24 168
 /ch/23/gate OFF GATE -80.0 60.0 1  502  983 0
@@ -766,7 +766,7 @@
 /ch/23/mix/16 OFF   -oo
 /ch/23/grp %00000000 %000000
 /ch/23/automix OFF  +0.0
-/ch/24/config "MD 2" 1 WHi 24
+/ch/24/config "Worship Lead" 1 WHi 24
 /ch/24/delay OFF   0.3
 /ch/24/preamp -18.0 OFF ON 24 168
 /ch/24/gate OFF GATE -80.0 60.0 1  502  983 0

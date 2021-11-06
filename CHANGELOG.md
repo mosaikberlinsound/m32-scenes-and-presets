@@ -2,6 +2,37 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v3.1.0...v4.0.0) (2021-11-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* adj. layout for linking chns (edrums, OH)
+
+### Features
+
+* adj. layout for linking chns (edrums, OH) ([e8f8f8f](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/e8f8f8f2f17ac2e791e08e8087aa91f4287117d3))
+* adjusted EQ for kick drum ([e85dd1a](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/e85dd1a849a82187b6216659db2bbd61d91a7a83))
+* introducing a slap delay ([99c1551](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/99c1551f2c7a77e3648d9753bc07cf395121cd95))
+* mastering the room with compression ([ef4db64](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/ef4db643eda13ef088c3b9bbf762ea5be565842f))
+* optimized bass guitar ([59fca7d](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/59fca7d76f653942f9238b2a7e030f26784a6991))
+* optimized drum over head mics ([146bdd5](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/146bdd537cd3963e7f451f1ae4463a1dece8c4b3))
+* optimized eDrums ([80a084a](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/80a084a39a2c8d88b4a56bc86d064774b1a42320))
+* optimized electric guitar ([86c576c](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/86c576c9c252dda3a27fe7b092b4b41c0bcf4903))
+* optimized preaching compression ([be178d0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/be178d0bd7a53e4035334e10d003a6061bf64bba))
+* optimized snare for house and livestream ([32e0bd8](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/32e0bd8baa1feab5797b120b3d8f21ea55b8ccda))
+* optimized toms ([34c06d9](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/34c06d961c2b8ea0dbc0b3dca4eef71d7c014538))
+* optimizing the effect ([ef51878](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/ef518780cd3f39563aae9971edb02ad06eeb29c0))
+* renamed MDs to Music Direct and Worship Lead ([4cfef84](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/4cfef84456cec58b353587fbc48951e99431a2d9))
+
+
+### Bug Fixes
+
+* aux channels ([164a0a4](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/164a0a4666f13771d48e5013f446aeffeb3dcb2b))
+* get rid of separate livestream preach mic ([8a1b5c1](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/8a1b5c1e7ddb25b20f55e1c6579cf284508e2432))
+* renamed preacher channel ([eaf73f3](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/eaf73f3828864ea98a7ba90e49dffa760b3df6dd))
+* version number ([b47112d](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/b47112d54203cc9d0fb766e26a8af646cec29a0b))
+
 ## [3.1.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v3.0.1...v3.1.0) (2021-10-05)
 
 

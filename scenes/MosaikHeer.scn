@@ -320,17 +320,17 @@
 /ch/09/automix OFF -12.0
 /ch/10/config "Bass" 1 GN 10
 /ch/10/delay OFF   0.3
-/ch/10/preamp -18.0 OFF ON 24  30
+/ch/10/preamp -18.0 OFF ON 24  87
 /ch/10/gate OFF GATE -80.0 60.0 1  502  983 0
 /ch/10/gate/filter OFF 3.0 990.9
-/ch/10/dyn ON COMP PEAK LOG -36.5 4.0 3 2.00 25 0.02  18 POST 0 100 OFF
+/ch/10/dyn ON COMP PEAK LOG -16.0 4.0 3 2.00 25 0.02  18 POST 0 100 OFF
 /ch/10/dyn/filter ON 1.0 101.4
 /ch/10/insert OFF POST OFF
 /ch/10/eq ON
-/ch/10/eq/1 PEQ 677.7 +7.25 1.7
-/ch/10/eq/2 PEQ 120.5 +2.00 1.9
-/ch/10/eq/3 PEQ 67.0 -8.25 8.6
-/ch/10/eq/4 HShv 1k21 -5.50 2.0
+/ch/10/eq/1 PEQ 71.8 +3.50 1.7
+/ch/10/eq/2 PEQ 209.4 -6.00 1.9
+/ch/10/eq/3 PEQ 590.2 -8.25 8.6
+/ch/10/eq/4 HShv 1k21 +0.00 2.0
 /ch/10/mix ON   -oo ON +0 ON  -1.5
 /ch/10/mix/01 ON   -oo +0 PRE
 /ch/10/mix/02 ON   -oo
@@ -342,8 +342,8 @@
 /ch/10/mix/08 ON   -oo
 /ch/10/mix/09 ON   -oo +0 PRE
 /ch/10/mix/10 ON   -oo
-/ch/10/mix/11 ON  -0.8 +0 POST
-/ch/10/mix/12 ON  -0.8
+/ch/10/mix/11 ON  -3.3 +0 POST
+/ch/10/mix/12 ON  -3.3
 /ch/10/mix/13 ON   -oo +0 POST
 /ch/10/mix/14 ON   -oo
 /ch/10/mix/15 ON   -oo +0 POST

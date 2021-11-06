@@ -67,15 +67,15 @@
 /ch/02/preamp -18.0 OFF ON 24  79
 /ch/02/gate OFF GATE -29.5 60.0 20 17.8  185 0
 /ch/02/gate/filter OFF 3.0 990.9
-/ch/02/dyn ON COMP PEAK LOG 0.0 5.0 4 0.00 80 0.02  30 POST 0 100 OFF
+/ch/02/dyn ON COMP PEAK LOG -15.0 5.0 4 0.00 80 0.02  30 POST 0 100 OFF
 /ch/02/dyn/filter ON HC12 1k39
 /ch/02/insert OFF POST OFF
 /ch/02/eq ON
 /ch/02/eq/1 PEQ 133.7 +5.00 1.5
 /ch/02/eq/2 PEQ 677.7 -6.25 1.6
-/ch/02/eq/3 PEQ 209.4 -2.00 1.8
-/ch/02/eq/4 HCut 2k34 +0.00 2.0
-/ch/02/mix ON   -oo ON -32 ON  +2.3
+/ch/02/eq/3 PEQ 285.8 -5.25 1.8
+/ch/02/eq/4 HCut 677.7 +0.00 2.0
+/ch/02/mix ON   -oo ON +0 ON  +2.3
 /ch/02/mix/01 ON   -oo +0 PRE
 /ch/02/mix/02 ON   -oo
 /ch/02/mix/03 ON   -oo +0 PRE
@@ -86,8 +86,8 @@
 /ch/02/mix/08 ON   -oo
 /ch/02/mix/09 ON   -oo +0 PRE
 /ch/02/mix/10 ON   -oo
-/ch/02/mix/11 ON  -4.8 -22 POST
-/ch/02/mix/12 ON  -4.8
+/ch/02/mix/11 ON   -oo -32 POST
+/ch/02/mix/12 ON   -oo
 /ch/02/mix/13 ON   -oo +0 POST
 /ch/02/mix/14 ON  -4.5
 /ch/02/mix/15 ON   -oo +0 POST
@@ -510,7 +510,7 @@
 /ch/15/mix/16 ON   -oo
 /ch/15/grp %00000010 %000000
 /ch/15/automix OFF  +0.0
-/ch/16/config "" 1 OFF 16
+/ch/16/config "Snare Lvstrm" 1 RD 2
 /ch/16/delay OFF   0.3
 /ch/16/preamp -18.0 OFF ON 24  57
 /ch/16/gate OFF GATE -80.0 60.0 1  502  983 0
@@ -519,11 +519,11 @@
 /ch/16/dyn/filter OFF 3.0 990.9
 /ch/16/insert OFF POST OFF
 /ch/16/eq ON
-/ch/16/eq/1 PEQ 124.7 +0.00 2.0
-/ch/16/eq/2 PEQ 417.9 -2.25 1.0
-/ch/16/eq/3 PEQ 1k97 +0.00 2.0
+/ch/16/eq/1 PEQ 133.7 -1.00 2.0
+/ch/16/eq/2 PEQ 447.7 -1.50 1.0
+/ch/16/eq/3 PEQ 4k68 +2.25 0.9
 /ch/16/eq/4 HShv 10k02 +0.00 2.0
-/ch/16/mix ON   -oo ON +0 OFF  -4.3
+/ch/16/mix ON  -5.2 OFF +0 OFF  -4.3
 /ch/16/mix/01 ON   -oo +0 PRE
 /ch/16/mix/02 ON   -oo
 /ch/16/mix/03 ON   -oo +0 PRE
@@ -534,13 +534,13 @@
 /ch/16/mix/08 ON   -oo
 /ch/16/mix/09 ON   -oo +0 PRE
 /ch/16/mix/10 ON   -oo
-/ch/16/mix/11 ON  -5.3 +0 POST
-/ch/16/mix/12 ON  -5.3
+/ch/16/mix/11 ON  +8.5 -32 POST
+/ch/16/mix/12 ON  +8.5
 /ch/16/mix/13 ON   -oo +0 POST
 /ch/16/mix/14 ON   -oo
 /ch/16/mix/15 ON   -oo +0 POST
 /ch/16/mix/16 ON   -oo
-/ch/16/grp %00000010 %000000
+/ch/16/grp %00000001 %000000
 /ch/16/automix OFF  +0.0
 /ch/17/config "Voc 1" 1 WH 17
 /ch/17/delay OFF   0.3

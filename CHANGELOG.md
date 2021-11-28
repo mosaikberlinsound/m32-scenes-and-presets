@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.1.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v4.0.0...v4.1.0) (2021-11-28)
+
+
+### Features
+
+* adding host/preacher mic to In Ear mixes ([8d33737](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/8d33737abb67dd82ff1d2d200fc02b4436f1fdc5))
+* preparations for recording sessions ([450f3c8](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/450f3c858c518c267853510bec9d5c6ea5490949))
+* safed gain settings and phantom power ([c9b9542](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/c9b9542a24865a72f64599aa1e8b6e4f079bd756))
+
+
+### Bug Fixes
+
+* ambient mic inputs adjusted to overheads ([1fa2caa](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/1fa2caa93377299535e4d315db3f3b72b3cd2a7e))
+* input for snare livestream ([da61af1](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/da61af1dedf32c98a73fb04a96b4c7dbe43c099f))
+* PC sound as post fader into In Ears ([d2e0713](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/d2e07130f56bd9b3c550833a16258965666e7b94))
+* swapping eDrums and Overheads ([f0571e9](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/f0571e924b42319138bbf79644da491183de0fd4))
+* tracks input channel ([42516c3](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/42516c342e4f51edd1dd2811f71333260c936369))
+
 ## [4.0.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v3.1.0...v4.0.0) (2021-11-06)
 
 

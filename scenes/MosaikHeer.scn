@@ -1879,7 +1879,7 @@
 /dca/7 ON   -oo
 /dca/7/config "SPEACH" 1 YEi
 /dca/8 ON   -oo
-/dca/8/config "v4.0.0" 1 WHi
+/dca/8/config "v4.1.0" 1 WHi
 /fx/1 VREV
 /fx/1/source MIX14 MIX14
 /fx/1/par 40 2.0 58 OFF FRONT 0.0 196 11k9 0.82 0.39 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0

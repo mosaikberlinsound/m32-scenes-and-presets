@@ -510,7 +510,7 @@
 /ch/15/mix/16 ON   -oo
 /ch/15/grp %00000010 %000000
 /ch/15/automix OFF  +0.0
-/ch/16/config "Tracks" 1 GN 2
+/ch/16/config "Tracks" 1 GN 16
 /ch/16/delay OFF   0.3
 /ch/16/preamp -18.0 OFF ON 24  33
 /ch/16/gate OFF GATE -80.0 60.0 1  502  983 0

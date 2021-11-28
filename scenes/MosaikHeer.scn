@@ -926,7 +926,7 @@
 /ch/28/mix/16 OFF   -oo
 /ch/28/grp %00000000 %000000
 /ch/28/automix OFF  +0.0
-/ch/29/config "Ambnt L" 1 YEi 6
+/ch/29/config "Ambnt L" 1 YEi 3
 /ch/29/delay OFF   0.3
 /ch/29/preamp +0.0 OFF OFF 24  64
 /ch/29/gate OFF GATE -80.0 60.0 1  502  983 0
@@ -958,7 +958,7 @@
 /ch/29/mix/16 ON   -oo
 /ch/29/grp %01000000 %000000
 /ch/29/automix OFF  +0.0
-/ch/30/config "Ambnt R" 1 YEi 7
+/ch/30/config "Ambnt R" 1 YEi 4
 /ch/30/delay OFF   0.3
 /ch/30/preamp +0.0 OFF OFF 24  64
 /ch/30/gate OFF GATE -80.0 60.0 1  502  983 0

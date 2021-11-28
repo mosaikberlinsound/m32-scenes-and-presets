@@ -318,7 +318,7 @@
 /ch/09/mix/16 ON   -oo
 /ch/09/grp %00000001 %000000
 /ch/09/automix OFF -12.0
-/ch/10/config "Snare Lvstrm" 1 RD 10
+/ch/10/config "Snare Lvstrm" 1 RD 2
 /ch/10/delay OFF   0.3
 /ch/10/preamp -18.0 OFF ON 24  57
 /ch/10/gate OFF GATE -80.0 60.0 1  502  983 0

@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.3.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v4.2.0...v4.3.0) (2021-11-29)
+
+
+### Features
+
+* changed FX DCA to control  FX sends ([f7287d6](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/f7287d678daf1d98dfb293dbfb51379bacf6fda6))
+* slightly increased Sub level ([2e2f862](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/2e2f862a88f22956990e1abed02d5d2e32cb81d2))
+
+
+### Bug Fixes
+
+* adjusted IEM for acoustic, electric, drums ([c4bbea4](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/c4bbea48eb4203e2ec4a5a0381f1474677a2d3f9))
+* MD mic not to bus 13 ([ade7730](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/ade7730a5c23edab0618651031f19bcf398373e3))
+* slightly adjusted/unified FX sends of Vocals ([490d4f1](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/490d4f167dad8180ff81666c8c1b3c5001108603))
+
 ## [4.2.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v4.1.0...v4.2.0) (2021-11-29)
 
 

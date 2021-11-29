@@ -1277,7 +1277,7 @@
 /fxrtn/01/mix/14 OFF   -oo
 /fxrtn/01/mix/15 OFF   -oo -100 POST
 /fxrtn/01/mix/16 OFF   -oo
-/fxrtn/01/grp %00100000 %000000
+/fxrtn/01/grp %00000000 %000000
 /fxrtn/02/config "acu rev" 1 MG
 /fxrtn/02/eq ON
 /fxrtn/02/eq/1 LCut 176.2 +0.00 2.0
@@ -1301,7 +1301,7 @@
 /fxrtn/02/mix/14 OFF   -oo
 /fxrtn/02/mix/15 OFF   -oo +100 POST
 /fxrtn/02/mix/16 OFF   -oo
-/fxrtn/02/grp %00100000 %000000
+/fxrtn/02/grp %00000000 %000000
 /fxrtn/03/config "vox rev" 1 MG
 /fxrtn/03/eq ON
 /fxrtn/03/eq/1 LCut 164.4 +0.00 2.0
@@ -1325,7 +1325,7 @@
 /fxrtn/03/mix/14 OFF   -oo
 /fxrtn/03/mix/15 OFF   -oo -100 POST
 /fxrtn/03/mix/16 OFF   -oo
-/fxrtn/03/grp %00100000 %000000
+/fxrtn/03/grp %00000000 %000000
 /fxrtn/04/config "vox rev" 1 MG
 /fxrtn/04/eq ON
 /fxrtn/04/eq/1 LCut 164.4 +0.00 2.0
@@ -1349,7 +1349,7 @@
 /fxrtn/04/mix/14 OFF   -oo
 /fxrtn/04/mix/15 OFF   -oo +100 POST
 /fxrtn/04/mix/16 OFF   -oo
-/fxrtn/04/grp %00100000 %000000
+/fxrtn/04/grp %00000000 %000000
 /fxrtn/05/config "slap delay" 1 MG
 /fxrtn/05/eq ON
 /fxrtn/05/eq/1 LCut 532.1 +0.50 2.0
@@ -1373,7 +1373,7 @@
 /fxrtn/05/mix/14 OFF   -oo
 /fxrtn/05/mix/15 OFF   -oo +0 POST
 /fxrtn/05/mix/16 OFF   -oo
-/fxrtn/05/grp %00100000 %000000
+/fxrtn/05/grp %00000000 %000000
 /fxrtn/06/config "slap delay" 1 MG
 /fxrtn/06/eq ON
 /fxrtn/06/eq/1 LCut 532.1 +0.50 2.0
@@ -1397,7 +1397,7 @@
 /fxrtn/06/mix/14 OFF   -oo
 /fxrtn/06/mix/15 OFF   -oo +0 POST
 /fxrtn/06/mix/16 OFF   -oo
-/fxrtn/06/grp %00100000 %000000
+/fxrtn/06/grp %00000000 %000000
 /fxrtn/07/config "" 1 MG
 /fxrtn/07/eq OFF
 /fxrtn/07/eq/1 PEQ 124.7 +0.00 2.0
@@ -1421,7 +1421,7 @@
 /fxrtn/07/mix/14 ON   -oo
 /fxrtn/07/mix/15 ON   -oo +0 POST
 /fxrtn/07/mix/16 ON   -oo
-/fxrtn/07/grp %00100000 %000000
+/fxrtn/07/grp %00000000 %000000
 /fxrtn/08/config "" 1 MG
 /fxrtn/08/eq OFF
 /fxrtn/08/eq/1 PEQ 124.7 +0.00 2.0
@@ -1445,7 +1445,7 @@
 /fxrtn/08/mix/14 ON   -oo
 /fxrtn/08/mix/15 ON   -oo +0 POST
 /fxrtn/08/mix/16 ON   -oo
-/fxrtn/08/grp %00100000 %000000
+/fxrtn/08/grp %00000000 %000000
 /bus/01/config "Drums L" 1 CY
 /bus/01/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  471 POST 0 100 OFF
 /bus/01/dyn/filter OFF 3.0 990.9
@@ -1711,7 +1711,7 @@
 /bus/14/mix/04 OFF   -oo
 /bus/14/mix/05 OFF   -oo +100 POST
 /bus/14/mix/06 OFF   -oo
-/bus/14/grp %00000000 %000000
+/bus/14/grp %00100000 %000000
 /bus/15/config "VOX REV" 1 MG
 /bus/15/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/15/dyn/filter OFF 3.0 990.9
@@ -1730,7 +1730,7 @@
 /bus/15/mix/04 OFF   -oo
 /bus/15/mix/05 ON   -oo +0 POST
 /bus/15/mix/06 ON   -oo
-/bus/15/grp %00000000 %000000
+/bus/15/grp %00100000 %000000
 /bus/16/config "VOX DELAY" 1 MG
 /bus/16/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/16/dyn/filter OFF 3.0 990.9
@@ -1749,7 +1749,7 @@
 /bus/16/mix/04 OFF   -oo
 /bus/16/mix/05 ON   -oo +0 POST
 /bus/16/mix/06 ON   -oo
-/bus/16/grp %00000000 %000000
+/bus/16/grp %00100000 %000000
 /mtx/01/config "X6" 1 WHi
 /mtx/01/preamp OFF
 /mtx/01/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF

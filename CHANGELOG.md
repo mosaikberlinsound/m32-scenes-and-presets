@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.2.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v4.1.0...v4.2.0) (2021-11-29)
+
+
+### Features
+
+* adjusted EQ for MD Mics to reduce bleed ([2dc0c89](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/2dc0c8939de122da9ef745a3535c0a6b2ae0e1a2))
+* changed default IEM Mix for all instruments ([5045522](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/50455225c4cf9139d496c854b44cf6a20df70566))
+
 ## [4.1.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v4.0.0...v4.1.0) (2021-11-28)
 
 

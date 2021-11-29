@@ -368,8 +368,8 @@
 /ch/11/mix/02 ON   -oo
 /ch/11/mix/03 ON   -oo +0 PRE
 /ch/11/mix/04 ON   -oo
-/ch/11/mix/05 ON   -oo +0 PRE
-/ch/11/mix/06 ON   -oo
+/ch/11/mix/05 ON   0.0 +0 PRE
+/ch/11/mix/06 ON   0.0
 /ch/11/mix/07 ON   -oo +0 PRE
 /ch/11/mix/08 ON   -oo
 /ch/11/mix/09 ON   -oo +0 PRE
@@ -400,8 +400,8 @@
 /ch/12/mix/02 ON   -oo
 /ch/12/mix/03 ON   -oo +0 PRE
 /ch/12/mix/04 ON   -oo
-/ch/12/mix/05 ON   -oo +0 PRE
-/ch/12/mix/06 ON   -oo
+/ch/12/mix/05 ON   0.0 +0 PRE
+/ch/12/mix/06 ON   0.0
 /ch/12/mix/07 ON   -oo +0 PRE
 /ch/12/mix/08 ON   -oo
 /ch/12/mix/09 ON   -oo +0 PRE
@@ -492,8 +492,8 @@
 /ch/15/eq/3 PEQ 590.2 -8.25 8.6
 /ch/15/eq/4 HShv 1k21 +0.00 2.0
 /ch/15/mix ON   -oo ON +0 ON  -1.5
-/ch/15/mix/01 ON   -oo +0 PRE
-/ch/15/mix/02 ON   -oo
+/ch/15/mix/01 ON  -6.0 +0 PRE
+/ch/15/mix/02 ON  -6.0
 /ch/15/mix/03 ON   0.0 +0 PRE
 /ch/15/mix/04 ON   0.0
 /ch/15/mix/05 ON   -oo +0 PRE
@@ -1006,8 +1006,8 @@
 /ch/31/mix ON   -oo ON +0 OFF -21.0
 /ch/31/mix/01 ON -15.0 +0 POST
 /ch/31/mix/02 ON -15.0
-/ch/31/mix/03 ON -14.0 +0 POST
-/ch/31/mix/04 ON -14.0
+/ch/31/mix/03 ON -15.0 +0 POST
+/ch/31/mix/04 ON -15.0
 /ch/31/mix/05 ON -15.0 +0 POST
 /ch/31/mix/06 ON -15.0
 /ch/31/mix/07 ON -15.0 +0 POST

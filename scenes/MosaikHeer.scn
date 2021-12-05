@@ -1186,7 +1186,7 @@
 /auxin/06/eq/2 PEQ 496.6 +0.00 2.0
 /auxin/06/eq/3 PEQ 1k97 +0.00 2.0
 /auxin/06/eq/4 HShv 10k02 +0.00 2.0
-/auxin/06/mix ON  -5.0 ON -100 ON -10.0
+/auxin/06/mix ON  -5.0 ON +100 ON -10.0
 /auxin/06/mix/01 ON -21.0 +100 POST
 /auxin/06/mix/02 ON -21.0
 /auxin/06/mix/03 ON -21.0 +100 POST

@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.4.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v4.3.0...v4.4.0) (2021-12-05)
+
+
+### Features
+
+* optimized preacher mic ([5051401](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/5051401f8904e68689332015104d365f219d91c7))
+
+
+### Bug Fixes
+
+* Bkg Music R was panned to left ([70115c9](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/70115c93436115107616f21cc071f9a209004a60))
+
 ## [4.3.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v4.2.0...v4.3.0) (2021-11-29)
 
 

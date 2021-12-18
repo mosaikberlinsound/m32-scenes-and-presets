@@ -1857,7 +1857,7 @@
 /main/m/eq/4 PEQ 1k97 +0.00 2.0
 /main/m/eq/5 PEQ 5k02 +0.00 2.0
 /main/m/eq/6 HCut 120.5 +0.00 2.0
-/main/m/mix ON  -9.0
+/main/m/mix ON  -3.9
 /main/m/mix/01 OFF   -oo +0 POST
 /main/m/mix/02 OFF   -oo
 /main/m/mix/03 OFF   -oo +0 POST

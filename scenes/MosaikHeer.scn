@@ -736,17 +736,17 @@
 /ch/22/automix OFF  +0.0
 /ch/23/config "Worship Lead" 1 WHi 23
 /ch/23/delay OFF   0.3
-/ch/23/preamp -18.0 OFF ON 24 220
+/ch/23/preamp -18.0 OFF ON 24 124
 /ch/23/gate OFF GATE -80.0 60.0 1  502  983 0
 /ch/23/gate/filter OFF 3.0 990.9
 /ch/23/dyn OFF COMP PEAK LOG -34.5 3.0 2 0.00 12 0.02  42 POST 0 100 OFF
 /ch/23/dyn/filter OFF 3.0 990.9
 /ch/23/insert OFF POST OFF
 /ch/23/eq ON
-/ch/23/eq/1 PEQ 124.7 +0.00 2.0
+/ch/23/eq/1 PEQ 317.0 -2.50 2.0
 /ch/23/eq/2 PEQ 496.6 +0.00 2.0
 /ch/23/eq/3 PEQ 1k97 +0.00 2.0
-/ch/23/eq/4 HCut 3k09 +6.00 2.0
+/ch/23/eq/4 HShv 9k68 -0.75 2.0
 /ch/23/mix ON   -oo OFF +0 OFF   -oo
 /ch/23/mix/01 ON  -9.0 +0 PRE
 /ch/23/mix/02 ON  -9.0

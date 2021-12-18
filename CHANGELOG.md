@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.5.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v4.4.0...v4.5.0) (2021-12-18)
+
+
+### Features
+
+* adjusted EQ and pre amps for wireless mics ([b6e999c](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/b6e999c8073ca7811b0b4c715a4618c668a17228))
+* adjusted PC sound sends to in ears ([ee2e7d9](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/ee2e7d9c429f5d0593a1abda85ecc70543940c4f))
+* adjusting graph EQ setting for wireless mics ([1a68515](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/1a68515b4a5989d9117047c0399c57d70ecacc69))
+* better EQ and pre amp for lead whisper mic ([ae714fc](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/ae714fcc8dfa0406748a23d218648f0a4a3aefd4))
+* improved pre amp and EQs for all instruments ([38a5b3c](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/38a5b3c89b7b6a13d8965651d4f4376d9713b30c))
+* improved starting positions for gain levels ([b8cd07f](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/b8cd07fd169ec824d15e7c39ddeaf820f4a693fb))
+* improved starting positions for gain levels ([920cbfd](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/920cbfdd6c403089a7a63b9c39b0bf11c02df77f))
+* increased sub volume ([590f9a5](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/590f9a5959a52d08f1cfb6c87927983500ce76b3))
+* new drum settings after acoustic adjustments ([c25d42c](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/c25d42ca1f619efde55c2b2ddec1d4de05440982))
+* optimized background music EQ ([005149c](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/005149c2c8ee2a1bcc2d7061d3d041d4d38c21b9))
+
 ## [4.4.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v4.3.0...v4.4.0) (2021-12-05)
 
 

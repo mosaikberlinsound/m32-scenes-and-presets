@@ -352,18 +352,18 @@
 /ch/10/automix OFF  +0.0
 /ch/11/config "A Git" 1 GN 11
 /ch/11/delay OFF   0.3
-/ch/11/preamp -18.0 OFF ON 24  75
+/ch/11/preamp -18.0 OFF ON 24 121
 /ch/11/gate OFF GATE 0.0 60.0 1  502  983 0
 /ch/11/gate/filter OFF 3.0 990.9
 /ch/11/dyn ON COMP PEAK LOG -17.0 2.0 2 1.50 16 10.0  151 POST 0 100 ON
 /ch/11/dyn/filter OFF 3.0 990.9
 /ch/11/insert OFF POST OFF
 /ch/11/eq ON
-/ch/11/eq/1 PEQ 124.7 +0.00 2.0
-/ch/11/eq/2 PEQ 496.6 +0.00 2.0
-/ch/11/eq/3 PEQ 2k89 -6.50 3.5
-/ch/11/eq/4 HShv 10k02 +0.00 2.0
-/ch/11/mix ON   -oo ON +0 OFF  -3.5
+/ch/11/eq/1 PEQ 170.2 -1.25 1.9
+/ch/11/eq/2 PEQ 295.8 -3.00 2.2
+/ch/11/eq/3 PEQ 2k11 -3.75 1.1
+/ch/11/eq/4 HShv 9k68 +2.50 2.0
+/ch/11/mix ON   -oo ON +0 OFF  +1.3
 /ch/11/mix/01 ON   -oo +0 PRE
 /ch/11/mix/02 ON   -oo
 /ch/11/mix/03 ON   -oo +0 PRE
@@ -416,18 +416,18 @@
 /ch/12/automix OFF  +0.0
 /ch/13/config "Keys L" 1 GN 13
 /ch/13/delay OFF   0.3
-/ch/13/preamp -18.0 OFF ON 24 124
+/ch/13/preamp -18.0 OFF ON 24  92
 /ch/13/gate OFF GATE -64.5 60.0 1  502  983 0
 /ch/13/gate/filter OFF 3.0 990.9
-/ch/13/dyn ON COMP PEAK LOG 0.0 3.0 4 5.00 24 10.0  173 POST 0 100 ON
+/ch/13/dyn ON COMP PEAK LOG -32.0 2.5 4 5.00 24 10.0  173 POST 0 100 ON
 /ch/13/dyn/filter OFF 1.0 590.2
 /ch/13/insert OFF POST OFF
 /ch/13/eq ON
-/ch/13/eq/1 PEQ 285.8 -2.75 1.5
-/ch/13/eq/2 PEQ 726.2 -3.50 1.3
-/ch/13/eq/3 PEQ 3k68 +3.75 0.9
-/ch/13/eq/4 HShv 10k02 +0.00 2.0
-/ch/13/mix ON   -oo ON -100 OFF  -4.0
+/ch/13/eq/1 PEQ 295.8 -3.50 1.4
+/ch/13/eq/2 PEQ 726.2 -3.25 1.2
+/ch/13/eq/3 PEQ 2k79 -4.50 0.9
+/ch/13/eq/4 HShv 5k97 +2.75 2.0
+/ch/13/mix ON   -oo ON -100 OFF  -3.3
 /ch/13/mix/01 ON   -oo +0 PRE
 /ch/13/mix/02 ON   -oo
 /ch/13/mix/03 ON   -oo +0 PRE
@@ -448,18 +448,18 @@
 /ch/13/automix OFF  +0.0
 /ch/14/config "Keys R" 1 GN 14
 /ch/14/delay OFF   0.3
-/ch/14/preamp -18.0 OFF ON 24 124
+/ch/14/preamp -18.0 OFF ON 24  92
 /ch/14/gate OFF GATE -64.5 60.0 1  502  983 0
 /ch/14/gate/filter OFF 3.0 990.9
-/ch/14/dyn ON COMP PEAK LOG 0.0 3.0 4 5.00 24 10.0  173 POST 0 100 ON
+/ch/14/dyn ON COMP PEAK LOG -32.0 2.5 4 5.00 24 10.0  173 POST 0 100 ON
 /ch/14/dyn/filter OFF 1.0 590.2
 /ch/14/insert OFF POST OFF
 /ch/14/eq ON
-/ch/14/eq/1 PEQ 285.8 -2.75 1.5
-/ch/14/eq/2 PEQ 726.2 -3.50 1.3
-/ch/14/eq/3 PEQ 3k68 +3.75 0.9
-/ch/14/eq/4 HShv 10k02 +0.00 2.0
-/ch/14/mix ON   -oo ON +100 OFF  -4.0
+/ch/14/eq/1 PEQ 295.8 -3.50 1.4
+/ch/14/eq/2 PEQ 726.2 -3.25 1.2
+/ch/14/eq/3 PEQ 2k79 -4.50 0.9
+/ch/14/eq/4 HShv 5k97 +2.75 2.0
+/ch/14/mix ON   -oo ON +100 OFF  -3.3
 /ch/14/mix/01 ON   -oo +0 PRE
 /ch/14/mix/02 ON   -oo
 /ch/14/mix/03 ON   -oo +0 PRE
@@ -480,10 +480,10 @@
 /ch/14/automix OFF  +0.0
 /ch/15/config "Bass" 1 GN 15
 /ch/15/delay OFF   0.3
-/ch/15/preamp -18.0 OFF ON 24  87
+/ch/15/preamp -18.0 OFF ON 24  57
 /ch/15/gate OFF GATE -80.0 60.0 1  502  983 0
 /ch/15/gate/filter OFF 3.0 990.9
-/ch/15/dyn ON COMP PEAK LOG -16.0 4.0 3 2.00 25 0.02  18 POST 0 100 OFF
+/ch/15/dyn ON COMP PEAK LOG -24.0 4.0 3 4.00 25 0.02  18 POST 0 100 OFF
 /ch/15/dyn/filter ON 1.0 101.4
 /ch/15/insert OFF POST OFF
 /ch/15/eq ON

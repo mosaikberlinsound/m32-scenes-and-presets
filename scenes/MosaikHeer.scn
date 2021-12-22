@@ -1271,8 +1271,8 @@
 /fxrtn/01/mix/08 ON   -oo
 /fxrtn/01/mix/09 ON   -oo -100 POST
 /fxrtn/01/mix/10 ON   -oo
-/fxrtn/01/mix/11 ON  +5.0 -100 POST
-/fxrtn/01/mix/12 ON  +5.0
+/fxrtn/01/mix/11 ON  -3.0 -100 POST
+/fxrtn/01/mix/12 ON  -3.0
 /fxrtn/01/mix/13 OFF -20.0 -100 POST
 /fxrtn/01/mix/14 OFF   -oo
 /fxrtn/01/mix/15 OFF   -oo -100 POST
@@ -1295,8 +1295,8 @@
 /fxrtn/02/mix/08 ON   -oo
 /fxrtn/02/mix/09 ON   -oo +100 POST
 /fxrtn/02/mix/10 ON   -oo
-/fxrtn/02/mix/11 ON  +5.0 +100 POST
-/fxrtn/02/mix/12 ON  +5.0
+/fxrtn/02/mix/11 ON  -3.0 +100 POST
+/fxrtn/02/mix/12 ON  -3.0
 /fxrtn/02/mix/13 OFF -20.0 +100 POST
 /fxrtn/02/mix/14 OFF   -oo
 /fxrtn/02/mix/15 OFF   -oo +100 POST
@@ -1319,8 +1319,8 @@
 /fxrtn/03/mix/08 ON   -oo
 /fxrtn/03/mix/09 ON -21.0 -100 POST
 /fxrtn/03/mix/10 ON -21.0
-/fxrtn/03/mix/11 ON  +4.8 -100 POST
-/fxrtn/03/mix/12 ON  +4.8
+/fxrtn/03/mix/11 ON  -3.5 -100 POST
+/fxrtn/03/mix/12 ON  -3.5
 /fxrtn/03/mix/13 OFF   -oo -100 POST
 /fxrtn/03/mix/14 OFF   -oo
 /fxrtn/03/mix/15 OFF   -oo -100 POST
@@ -1343,8 +1343,8 @@
 /fxrtn/04/mix/08 ON   -oo
 /fxrtn/04/mix/09 ON -21.0 +0 POST
 /fxrtn/04/mix/10 ON -21.0
-/fxrtn/04/mix/11 ON  +4.8 +100 POST
-/fxrtn/04/mix/12 ON  +4.8
+/fxrtn/04/mix/11 ON  -3.5 +100 POST
+/fxrtn/04/mix/12 ON  -3.5
 /fxrtn/04/mix/13 OFF   -oo +100 POST
 /fxrtn/04/mix/14 OFF   -oo
 /fxrtn/04/mix/15 OFF   -oo +100 POST

@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.6.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v4.5.0...v4.6.0) (2021-12-22)
+
+
+### Features
+
+* adding more low end to the floor tom ([a4bc71c](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/a4bc71c39771c5f9ce2e71307325d07d8b920929))
+* adding more low end to the kick ([e9129fc](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/e9129fc6c1cbfb8d22a01679c7b864f7222df60d))
+* adding the i5 speaker ([9cb7cc6](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/9cb7cc6c3e06115741422031ce954d03d02eec26))
+* adjusting effect levels in livestream bus ([c48a498](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/c48a49874c8321f1783979c6a0bd063fe1d0d051))
+* improve the initial gain levels ([a5c4872](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/a5c4872c8916eee021c0de2ead7a291c5d59aa3f))
+* improve the starting In Ear levels ([1e45105](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/1e4510568c6ef1a9f6bbe30b74a7db6f72f30349))
+* improving levels for background music ([f888fe7](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/f888fe7fedc7af0434c434be8cf8ad655818e443))
+* improving the initial compressor levels ([aa0a2cb](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/aa0a2cbda622cb7c2c4f932232df4d218ff4efe1))
+* improving the initial effect send levels ([436b8b1](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/436b8b1075eb070e26a869a152665b533dfc3796))
+
+
+### Bug Fixes
+
+* adjust slap delay level and name ([b09d202](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/b09d2022b42aaa368acb1d28bc10744e86bf58e1))
+* improving the sub woofer level ([99ca019](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/99ca01957bf66fc1730accdac0513476c34ae0e6))
+
 ## [4.5.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v4.4.0...v4.5.0) (2021-12-18)
 
 

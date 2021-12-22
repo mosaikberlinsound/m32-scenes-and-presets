@@ -1356,7 +1356,7 @@
 /fxrtn/05/eq/2 PEQ 496.6 +0.00 2.0
 /fxrtn/05/eq/3 PEQ 1k97 +0.00 2.0
 /fxrtn/05/eq/4 HCut 2k27 +0.50 2.0
-/fxrtn/05/mix ON   -oo ON -100 OFF   -oo
+/fxrtn/05/mix ON   0.0 ON -100 OFF   -oo
 /fxrtn/05/mix/01 ON   -oo -100 POST
 /fxrtn/05/mix/02 ON   -oo
 /fxrtn/05/mix/03 ON   -oo -100 POST
@@ -1380,7 +1380,7 @@
 /fxrtn/06/eq/2 PEQ 496.6 +0.00 2.0
 /fxrtn/06/eq/3 PEQ 1k97 +0.00 2.0
 /fxrtn/06/eq/4 HCut 2k27 +0.50 2.0
-/fxrtn/06/mix ON   -oo ON +100 OFF   -oo
+/fxrtn/06/mix ON   0.0 ON +100 OFF   -oo
 /fxrtn/06/mix/01 ON   -oo +100 POST
 /fxrtn/06/mix/02 ON   -oo
 /fxrtn/06/mix/03 ON   -oo +100 POST
@@ -1731,7 +1731,7 @@
 /bus/15/mix/05 ON   -oo +0 POST
 /bus/15/mix/06 ON   -oo
 /bus/15/grp %00100000 %000000
-/bus/16/config "VOX DELAY" 1 MG
+/bus/16/config "SLAP DLY" 1 MG
 /bus/16/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /bus/16/dyn/filter OFF 3.0 990.9
 /bus/16/insert OFF POST OFF

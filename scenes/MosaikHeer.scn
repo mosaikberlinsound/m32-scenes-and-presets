@@ -286,9 +286,9 @@
 /ch/08/mix/16 ON   -oo
 /ch/08/grp %00000001 %000000
 /ch/08/automix OFF -12.0
-/ch/09/config "Tom Low" 1 RD 9
+/ch/09/config "Tom Floor" 1 RD 9
 /ch/09/delay OFF   0.3
-/ch/09/preamp -18.0 OFF ON 24  62
+/ch/09/preamp -18.0 OFF ON 24  59
 /ch/09/gate OFF GATE -41.5 60.0 14  158  385 0
 /ch/09/gate/filter OFF 3.0 990.9
 /ch/09/dyn ON COMP PEAK LOG 0.0 5.0 3 0.00 90 0.02  30 POST 0 100 OFF

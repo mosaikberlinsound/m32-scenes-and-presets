@@ -1155,13 +1155,13 @@
 /auxin/04/mix/16 ON   -oo
 /auxin/04/grp %00000000 %000000
 /auxin/05/config "Bkg Music L" 1 CY 37
-/auxin/05/preamp +16.5 OFF
+/auxin/05/preamp +18.0 OFF
 /auxin/05/eq ON
 /auxin/05/eq/1 PEQ 124.7 +0.00 2.0
 /auxin/05/eq/2 PEQ 496.6 +0.00 2.0
 /auxin/05/eq/3 PEQ 1k97 +0.00 2.0
 /auxin/05/eq/4 HShv 10k02 +0.00 2.0
-/auxin/05/mix ON  -2.5 ON -100 ON -10.0
+/auxin/05/mix ON  -1.8 ON -100 ON  -9.8
 /auxin/05/mix/01 ON -21.0 -100 POST
 /auxin/05/mix/02 ON -21.0
 /auxin/05/mix/03 ON -21.0 -100 POST
@@ -1180,13 +1180,13 @@
 /auxin/05/mix/16 ON   -oo
 /auxin/05/grp %00001000 %000000
 /auxin/06/config "Bkg Music R" 1 CY 38
-/auxin/06/preamp +16.5 OFF
+/auxin/06/preamp +18.0 OFF
 /auxin/06/eq ON
 /auxin/06/eq/1 PEQ 124.7 +0.00 2.0
 /auxin/06/eq/2 PEQ 496.6 +0.00 2.0
 /auxin/06/eq/3 PEQ 1k97 +0.00 2.0
 /auxin/06/eq/4 HShv 10k02 +0.00 2.0
-/auxin/06/mix ON  -2.5 ON +100 ON -10.0
+/auxin/06/mix ON  -1.8 ON +100 ON  -9.8
 /auxin/06/mix/01 ON -21.0 +100 POST
 /auxin/06/mix/02 ON -21.0
 /auxin/06/mix/03 ON -21.0 +100 POST

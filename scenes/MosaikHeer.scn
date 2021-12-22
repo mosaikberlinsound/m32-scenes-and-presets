@@ -355,7 +355,7 @@
 /ch/11/preamp -18.0 OFF ON 24 121
 /ch/11/gate OFF GATE 0.0 60.0 1  502  983 0
 /ch/11/gate/filter OFF 3.0 990.9
-/ch/11/dyn ON COMP PEAK LOG -17.0 2.0 2 1.50 16 10.0  151 POST 0 100 ON
+/ch/11/dyn ON COMP PEAK LOG -28.0 3.0 2 3.00 16 10.0  151 POST 0 100 ON
 /ch/11/dyn/filter OFF 3.0 990.9
 /ch/11/insert OFF POST OFF
 /ch/11/eq ON
@@ -387,7 +387,7 @@
 /ch/12/preamp -18.0 OFF ON 24 233
 /ch/12/gate OFF GATE -80.0 60.0 1  251  703 0
 /ch/12/gate/filter OFF 3.0 990.9
-/ch/12/dyn ON COMP PEAK LOG 0.0 2.5 4 0.00 10 10.0  151 POST 0 100 ON
+/ch/12/dyn ON COMP PEAK LOG -28.0 2.5 4 2.00 10 10.0  151 POST 0 100 ON
 /ch/12/dyn/filter ON 1.0 3k31
 /ch/12/insert OFF POST OFF
 /ch/12/eq ON
@@ -547,7 +547,7 @@
 /ch/17/preamp -18.0 OFF ON 24 114
 /ch/17/gate OFF GATE -80.0 60.0 1  502  983 0
 /ch/17/gate/filter OFF 3.0 990.9
-/ch/17/dyn ON COMP PEAK LOG 0.0 3.0 4 3.50 22 0.02  37 POST 0 100 OFF
+/ch/17/dyn ON COMP PEAK LOG -20.5 3.0 4 3.50 22 0.02  37 POST 0 100 OFF
 /ch/17/dyn/filter ON 2.0 1k97
 /ch/17/insert OFF POST OFF
 /ch/17/eq ON
@@ -579,7 +579,7 @@
 /ch/18/preamp -18.0 OFF ON 24 173
 /ch/18/gate OFF GATE -80.0 60.0 1  502  983 0
 /ch/18/gate/filter OFF 3.0 990.9
-/ch/18/dyn ON COMP PEAK LOG 0.0 3.0 4 0.00 10 0.02  40 POST 0 100 OFF
+/ch/18/dyn ON COMP PEAK LOG -18.5 3.0 4 2.00 10 0.02  40 POST 0 100 OFF
 /ch/18/dyn/filter ON 1.0 1k97
 /ch/18/insert OFF POST OFF
 /ch/18/eq ON

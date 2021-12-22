@@ -89,7 +89,7 @@
 /ch/02/mix/11 ON   -oo -52 POST
 /ch/02/mix/12 ON   -oo
 /ch/02/mix/13 ON   -oo +0 POST
-/ch/02/mix/14 ON  -4.5
+/ch/02/mix/14 ON  -2.0
 /ch/02/mix/15 ON   -oo +0 POST
 /ch/02/mix/16 ON   -oo
 /ch/02/grp %00000001 %000000
@@ -121,7 +121,7 @@
 /ch/03/mix/11 ON  +6.5 -100 POST
 /ch/03/mix/12 ON  +6.5
 /ch/03/mix/13 ON   -oo -100 POST
-/ch/03/mix/14 ON   -oo
+/ch/03/mix/14 ON -20.5
 /ch/03/mix/15 ON   -oo -100 POST
 /ch/03/mix/16 ON   -oo
 /ch/03/grp %00000001 %000000
@@ -153,7 +153,7 @@
 /ch/04/mix/11 ON  +6.5 +100 POST
 /ch/04/mix/12 ON  +6.5
 /ch/04/mix/13 ON   -oo +100 POST
-/ch/04/mix/14 ON   -oo
+/ch/04/mix/14 ON -20.5
 /ch/04/mix/15 ON   -oo +100 POST
 /ch/04/mix/16 ON   -oo
 /ch/04/grp %00000001 %000000
@@ -185,7 +185,7 @@
 /ch/05/mix/11 ON  +2.8 -100 POST
 /ch/05/mix/12 ON  +2.8
 /ch/05/mix/13 ON   -oo -100 POST
-/ch/05/mix/14 ON -30.0
+/ch/05/mix/14 ON   -oo
 /ch/05/mix/15 ON   -oo -100 POST
 /ch/05/mix/16 ON   -oo
 /ch/05/grp %00000001 %000000
@@ -217,7 +217,7 @@
 /ch/06/mix/11 ON  +2.8 +100 POST
 /ch/06/mix/12 ON  +2.8
 /ch/06/mix/13 ON   -oo +100 POST
-/ch/06/mix/14 ON -30.0
+/ch/06/mix/14 ON   -oo
 /ch/06/mix/15 ON   -oo +100 POST
 /ch/06/mix/16 ON   -oo
 /ch/06/grp %00000001 %000000
@@ -249,7 +249,7 @@
 /ch/07/mix/11 ON  +3.5 -24 POST
 /ch/07/mix/12 ON  +3.5
 /ch/07/mix/13 ON   -oo +0 POST
-/ch/07/mix/14 ON   -oo
+/ch/07/mix/14 ON -19.5
 /ch/07/mix/15 ON   -oo +0 POST
 /ch/07/mix/16 ON   -oo
 /ch/07/grp %00000001 %000000
@@ -281,7 +281,7 @@
 /ch/08/mix/11 ON  +4.0 +10 POST
 /ch/08/mix/12 ON  +4.0
 /ch/08/mix/13 ON   -oo +0 POST
-/ch/08/mix/14 ON   -oo
+/ch/08/mix/14 ON -20.0
 /ch/08/mix/15 ON   -oo +0 POST
 /ch/08/mix/16 ON   -oo
 /ch/08/grp %00000001 %000000
@@ -313,7 +313,7 @@
 /ch/09/mix/11 ON  +3.5 +60 POST
 /ch/09/mix/12 ON  +3.5
 /ch/09/mix/13 ON   -oo +0 POST
-/ch/09/mix/14 ON   -oo
+/ch/09/mix/14 ON -20.5
 /ch/09/mix/15 ON   -oo +0 POST
 /ch/09/mix/16 ON   -oo
 /ch/09/grp %00000001 %000000
@@ -570,8 +570,8 @@
 /ch/17/mix/12 ON  +0.5
 /ch/17/mix/13 ON   -oo +0 POST
 /ch/17/mix/14 ON   -oo
-/ch/17/mix/15 ON   0.0 +0 POST
-/ch/17/mix/16 ON -12.0
+/ch/17/mix/15 ON  -9.0 +0 POST
+/ch/17/mix/16 ON   -oo
 /ch/17/grp %00000100 %000000
 /ch/17/automix OFF  +0.0
 /ch/18/config "Voc 2" 1 WH 18
@@ -602,8 +602,8 @@
 /ch/18/mix/12 ON  -0.3
 /ch/18/mix/13 ON   -oo +0 POST
 /ch/18/mix/14 ON   -oo
-/ch/18/mix/15 ON   0.0 +0 POST
-/ch/18/mix/16 ON -12.0
+/ch/18/mix/15 ON  -9.3 +0 POST
+/ch/18/mix/16 ON   -oo
 /ch/18/grp %00000100 %000000
 /ch/18/automix OFF  +0.0
 /ch/19/config "Voc 3" 1 WH 19
@@ -634,8 +634,8 @@
 /ch/19/mix/12 ON  -1.5
 /ch/19/mix/13 ON   -oo +0 POST
 /ch/19/mix/14 ON   -oo
-/ch/19/mix/15 ON   0.0 +0 POST
-/ch/19/mix/16 ON -12.0
+/ch/19/mix/15 ON  -9.0 +0 POST
+/ch/19/mix/16 ON   -oo
 /ch/19/grp %00000100 %000000
 /ch/19/automix OFF  +0.0
 /ch/20/config "Voc 4" 1 WH 20
@@ -666,8 +666,8 @@
 /ch/20/mix/12 ON  -0.5
 /ch/20/mix/13 ON   -oo +0 POST
 /ch/20/mix/14 ON   -oo
-/ch/20/mix/15 ON   0.0 +0 POST
-/ch/20/mix/16 ON -12.0
+/ch/20/mix/15 ON  -9.3 +0 POST
+/ch/20/mix/16 ON   -oo
 /ch/20/grp %00000100 %000000
 /ch/20/automix OFF  +0.0
 /ch/21/config "Click Guide" 1 WHi 21

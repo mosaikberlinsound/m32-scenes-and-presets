@@ -32,7 +32,7 @@
 /config/amixenable OFF OFF
 /ch/01/config "Kick" 1 RD 1
 /ch/01/delay OFF   0.3
-/ch/01/preamp -18.0 OFF ON 24  84
+/ch/01/preamp -18.0 OFF ON 24  42
 /ch/01/gate OFF GATE -56.0 42.0 1 5.02  25 0
 /ch/01/gate/filter ON 3.0 85.3
 /ch/01/dyn ON COMP PEAK LOG -22.0 5.0 2 4.00 63 0.02  55 POST 0 100 OFF

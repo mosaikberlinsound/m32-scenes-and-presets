@@ -1781,14 +1781,14 @@
 /mtx/03/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF
 /mtx/03/dyn/filter OFF 3.0 990.9
 /mtx/03/insert OFF POST OFF
-/mtx/03/eq OFF
-/mtx/03/eq/1 LCut 116.4 +0.00 2.0
+/mtx/03/eq ON
+/mtx/03/eq/1 LCut 133.7 -0.25 2.0
 /mtx/03/eq/2 PEQ 158.9 +0.00 2.0
 /mtx/03/eq/3 PEQ 496.6 +0.00 2.0
 /mtx/03/eq/4 PEQ 1k97 +0.00 2.0
 /mtx/03/eq/5 PEQ 5k02 +0.00 2.0
 /mtx/03/eq/6 HShv 20k00 +0.00 2.0
-/mtx/03/mix ON  -9.0
+/mtx/03/mix ON   0.0
 /mtx/04/config "" 1 OFF
 /mtx/04/preamp OFF
 /mtx/04/dyn OFF COMP RMS LOG 0.0 3.0 1 0.00 10 10.0  151 POST 100 OFF

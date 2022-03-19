@@ -1,4 +1,4 @@
-#2.7# "MosaikHeer_15-03" "" %000000000 1                                                                                       
+#2.7# "MosaikHeer_v5" "" %000000000 1                                                                                                 
 /config/chlink OFF OFF ON OFF OFF OFF ON OFF OFF OFF OFF OFF ON OFF ON OFF
 /config/auxlink OFF OFF ON ON
 /config/fxlink ON ON ON ON
@@ -1054,7 +1054,7 @@
 /ch/32/mix/16 OFF   -oo
 /ch/32/grp %01000000 %000000
 /ch/32/automix OFF  +0.0
-/auxin/01/config "" 1 OFFi 30
+/auxin/01/config "v4.6.0" 1 WHi 30
 /auxin/01/preamp +7.0 OFF
 /auxin/01/eq OFF
 /auxin/01/eq/1 PEQ 124.7 +0.00 2.0

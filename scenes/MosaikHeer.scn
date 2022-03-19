@@ -1879,7 +1879,7 @@
 /dca/7 ON   -oo
 /dca/7/config "SPEACH" 1 YEi
 /dca/8 ON   -oo
-/dca/8/config "v4.6.0" 1 WHi
+/dca/8/config "Delay SND" 1 WHi
 /fx/1 CHAM
 /fx/1/source MIX14 MIX14
 /fx/1/par 14 1.56 56 4k47 100 0.0 60 5k0 1.00 33 70 50 115 135 54 66 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0

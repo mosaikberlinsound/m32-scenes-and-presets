@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.0.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v4.6.0...v5.0.0) (2022-03-19)
+
+
+### Features
+
+* moving version number to AUX1 ([168b36f](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/168b36fba6c4b99a196709235bcb96068fbf3693))
+
 ## [4.6.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v4.5.0...v4.6.0) (2021-12-22)
 
 

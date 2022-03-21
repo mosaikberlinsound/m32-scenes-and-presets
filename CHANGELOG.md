@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.2.1](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v5.2.0...v5.2.1) (2022-03-21)
+
+
+### Bug Fixes
+
+* redundance ([07fbb0a](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/07fbb0aa1603750d11daeab84554c67e0dc0083c))
+* rollback drum settings to v4.5.0 ([05e623b](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/05e623bf56e9ee66343cbe0f6c0dd5f32fe04edb))
+
 ## [5.2.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v5.1.0...v5.2.0) (2022-03-19)
 
 

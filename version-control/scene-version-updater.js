@@ -1,5 +1,5 @@
-const versionRegEx = /\/dca\/8\/config "v[0-9]+\.[0-9]+\.[0-9]+.*"/g;
-const preVersionTextRegEx = /\/dca\/8\/config "v/g;
+const versionRegEx = /\/auxin\/01\/config "v[0-9]+\.[0-9]+\.[0-9]+.*"/g;
+const preVersionTextRegEx = /\/auxin\/01\/config "v/g;
 const ANSI_RESET = "\u001B[0m";
 const ANSI_BLACK_BOLD = "\u001B[1;29m";
 const ANSI_GREEN = "\u001B[32m";

@@ -2,6 +2,52 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.2.1](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v5.2.0...v5.2.1) (2022-03-21)
+
+
+### Bug Fixes
+
+* redundance ([07fbb0a](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/07fbb0aa1603750d11daeab84554c67e0dc0083c))
+* rollback drum settings to v4.5.0 ([05e623b](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/05e623bf56e9ee66343cbe0f6c0dd5f32fe04edb))
+
+## [5.2.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v5.1.0...v5.2.0) (2022-03-19)
+
+
+### Features
+
+* adding the patch field ([b132327](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/b1323274f6b5ba5081dac205ae202fbd0cb09fb2))
+
+## [5.1.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v5.0.0...v5.1.0) (2022-03-19)
+
+
+### Features
+
+* added changes to CHANGELOG ([3764534](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/376453492bb2feb4d36b09d2fd9e504d32aadb19))
+
+## [5.0.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v4.6.0...v5.0.0) (2022-03-19)
+
+### Main changes:
+
+- IEMs: Vocal Stereo-IEM-Bus split into two Mono-IEM Busses to provide IEMs for up to 6 musicians
+- Drums: reorganized channels (added "snare bottom" channel, only one e-drum channel, removed third tom channel)
+- Drums: added "DRM SMCK"-Bus for parallel compressing drums (deactivated by default)
+- Bass: added channel for "Synth Bass"
+- Keys: extension to 4 channels (2 linked channels for main piano sound, 2 separate channels e.g. for pads and arps)
+- Vocals: added "Leisure Compressor" as insert for vocals 1 and 2
+- FX: replaced "ACU REV" with "ROOM REV" (room reverb dedicated for live stream only) to give better live stream mix
+- FX: changed Delay for a Delay without Reverb
+- FX: DCA 8 controls send to Delay
+- Live Stream: added "Stereo Combinator" as insert to provide multiband compression
+- Version number moved to AUX1
+
+To use parallel compression on drums ("DRM SMCK" Bus): adjust the input gain of FX6 (Ultimo Compressor) during loud part of a song so that the Gain Reduction meter shows heavy compression (e.g. -10). Blend in volume of DRM SMCK Bus to taste.
+
+To use Leisure Compressor on Vocals 1 and 2: adjust Peak Reduction during loud part of a song so that Gain Reduction meter shows approx. -6dB on peaks.
+
+### Features
+
+* moving version number to AUX1 ([168b36f](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/168b36fba6c4b99a196709235bcb96068fbf3693))
+
 ## [4.6.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v4.5.0...v4.6.0) (2021-12-22)
 
 

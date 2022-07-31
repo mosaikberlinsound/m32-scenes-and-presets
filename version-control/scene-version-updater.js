@@ -13,7 +13,7 @@ const outputChangesTo = (contents) => {
     "[GREEN]✔[RESET] outputting changes to [BLACK_BOLD]./scenes/MosaikHeer.scn[RESET]",
     "",
     "[WHITE]---",
-    contents.split("\n")[1881],
+    contents.split("\n")[1062],
     "---[RESET]",
     "",
   ]

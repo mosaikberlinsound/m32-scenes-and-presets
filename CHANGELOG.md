@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [6.0.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v5.2.1...v6.0.0) (2022-07-31)
+
 ### [5.2.1](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v5.2.0...v5.2.1) (2022-03-21)
 
 

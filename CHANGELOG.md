@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [6.0.3](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v6.0.2...v6.0.3) (2022-10-09)
+
+
+### Bug Fixes
+
+* adjust bus levels for drums/bass ([133554e](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/133554eb8edf3a0629cf2ef6e65f72d4caf6594f))
+
 ### [6.0.2](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v6.0.1...v6.0.2) (2022-07-31)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "m32-scenes-and-presets",
-  "version": "6.0.2",
+  "version": "6.0.3",
   "description": "The Mosaik Berlin's sound board configuration files (i.e., Midas M32) are version controlled in this repo.",
   "main": "README.md",
   "scripts": {

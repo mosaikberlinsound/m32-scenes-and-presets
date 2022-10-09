@@ -1,4 +1,4 @@
-#4.0# "MosaikHeer_v5" "" %000000000 1                                                                                                  
+#4.0# "MosaikHeer_v6" "" %000000000 1                                                                                                  
 /config/chlink OFF OFF ON OFF OFF OFF ON OFF OFF OFF OFF OFF ON OFF ON OFF
 /config/auxlink OFF OFF ON ON
 /config/fxlink ON ON ON ON
@@ -1463,7 +1463,7 @@
 /bus/01/eq/4 PEQ 1k97 +0.00 2.0
 /bus/01/eq/5 PEQ 5k02 +0.00 2.0
 /bus/01/eq/6 HShv 10k02 +0.00 2.0
-/bus/01/mix ON   0.0 OFF -100 OFF   -oo
+/bus/01/mix ON  -3.0 OFF -100 OFF   -oo
 /bus/01/mix/01 OFF   -oo -100 POST 0
 /bus/01/mix/02 OFF   -oo
 /bus/01/mix/03 OFF   -oo -100 POST 0
@@ -1482,7 +1482,7 @@
 /bus/02/eq/4 PEQ 1k97 +0.00 2.0
 /bus/02/eq/5 PEQ 5k02 +0.00 2.0
 /bus/02/eq/6 HShv 10k02 +0.00 2.0
-/bus/02/mix ON   0.0 OFF +100 OFF   -oo
+/bus/02/mix ON  -3.0 OFF +100 OFF   -oo
 /bus/02/mix/01 OFF   -oo +100 POST 0
 /bus/02/mix/02 OFF   -oo
 /bus/02/mix/03 OFF   -oo +100 POST 0
@@ -1501,7 +1501,7 @@
 /bus/03/eq/4 PEQ 1k97 +0.00 2.0
 /bus/03/eq/5 PEQ 5k02 +0.00 2.0
 /bus/03/eq/6 HShv 10k02 +0.00 2.0
-/bus/03/mix ON   0.0 OFF -100 OFF   -oo
+/bus/03/mix ON  -6.0 OFF -100 OFF   -oo
 /bus/03/mix/01 OFF   -oo -100 POST 0
 /bus/03/mix/02 OFF   -oo
 /bus/03/mix/03 OFF   -oo -100 POST 0
@@ -1520,7 +1520,7 @@
 /bus/04/eq/4 PEQ 1k97 +0.00 2.0
 /bus/04/eq/5 PEQ 5k02 +0.00 2.0
 /bus/04/eq/6 HShv 10k02 +0.00 2.0
-/bus/04/mix ON   0.0 OFF +100 OFF   -oo
+/bus/04/mix ON  -6.0 OFF +100 OFF   -oo
 /bus/04/mix/01 OFF   -oo +100 POST 0
 /bus/04/mix/02 OFF   -oo
 /bus/04/mix/03 OFF   -oo +100 POST 0

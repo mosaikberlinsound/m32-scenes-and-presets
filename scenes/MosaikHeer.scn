@@ -999,7 +999,7 @@
 /ch/31/config "HandH" 1 YEi 31
 /ch/31/delay OFF   0.3
 /ch/31/preamp -18.0 OFF ON 24 110
-/ch/31/gate ON EXP4 -35.0 52.0 5  112  441 0
+/ch/31/gate ON EXP4 -48.5 12.0 5  112  441 0
 /ch/31/gate/filter OFF 3.0 990.9
 /ch/31/dyn ON COMP PEAK LOG -27.0 4.0 5 3.00 10 0.02  40 POST 0 100 ON
 /ch/31/dyn/filter OFF 3.0 990.9
@@ -1031,13 +1031,13 @@
 /ch/32/config "Preacher" 1 YEi 32
 /ch/32/delay OFF   0.3
 /ch/32/preamp -18.0 OFF ON 24 124
-/ch/32/gate ON EXP3 -30.5 42.0 4 1.26  471 0
+/ch/32/gate ON EXP3 -34.0 12.0 2 2.00  412 0
 /ch/32/gate/filter OFF 3.0 990.9
-/ch/32/dyn ON COMP RMS LOG -39.5 4.0 5 2.50 51 0.02  226 POST 0 100 OFF
+/ch/32/dyn ON COMP RMS LOG -34.0 4.0 5 0.00 51 0.02  226 POST 0 100 OFF
 /ch/32/dyn/filter OFF 3.0 990.9
 /ch/32/insert ON PRE FX7R
 /ch/32/eq ON
-/ch/32/eq/1 PEQ 138.4 +0.75 2.6
+/ch/32/eq/1 PEQ 176.2 -3.75 1.8
 /ch/32/eq/2 PEQ 363.9 -4.00 1.4
 /ch/32/eq/3 PEQ 2k99 -4.00 1.0
 /ch/32/eq/4 HShv 6k18 -2.25 2.0
@@ -1060,7 +1060,7 @@
 /ch/32/mix/16 OFF   -oo
 /ch/32/grp %01000000 %000000
 /ch/32/automix OFF  +0.0
-/auxin/01/config "v7.0.1" 1 WHi 30
+/auxin/01/config "v7.0.3" 1 WHi 30
 /auxin/01/preamp +7.0 OFF
 /auxin/01/eq OFF
 /auxin/01/eq/1 PEQ 124.7 +0.00 2.0

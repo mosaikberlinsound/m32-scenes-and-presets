@@ -1060,7 +1060,7 @@
 /ch/32/mix/16 OFF   -oo
 /ch/32/grp %01000000 %000000
 /ch/32/automix OFF  +0.0
-/auxin/01/config "v6.0.3" 1 WHi 30
+/auxin/01/config "v6.0.4" 1 WHi 30
 /auxin/01/preamp +7.0 OFF
 /auxin/01/eq OFF
 /auxin/01/eq/1 PEQ 124.7 +0.00 2.0
@@ -2020,36 +2020,36 @@
 /headamp/029 +0.0 OFF
 /headamp/030 +0.0 OFF
 /headamp/031 +0.0 OFF
-/headamp/032 +19.0 OFF
-/headamp/033 +20.5 OFF
-/headamp/034 +20.5 OFF
+/headamp/032 +30.0 OFF
+/headamp/033 +13.5 OFF
+/headamp/034 +17.0 OFF
 /headamp/035 +30.5 OFF
 /headamp/036 +18.0 ON
 /headamp/037 +18.0 ON
 /headamp/038 +16.0 OFF
-/headamp/039 +21.0 OFF
-/headamp/040 +41.0 OFF
-/headamp/041 +18.0 OFF
-/headamp/042 +2.0 ON
-/headamp/043 +39.0 OFF
-/headamp/044 +21.5 OFF
-/headamp/045 +21.5 OFF
-/headamp/046 +25.5 OFF
-/headamp/047 +22.5 OFF
+/headamp/039 +19.5 OFF
+/headamp/040 +39.0 OFF
+/headamp/041 +2.5 OFF
+/headamp/042 +9.5 ON
+/headamp/043 +9.5 ON
+/headamp/044 +31.0 OFF
+/headamp/045 +31.0 OFF
+/headamp/046 +35.5 OFF
+/headamp/047 +35.5 OFF
 /headamp/048 +32.0 OFF
 /headamp/049 +40.5 OFF
 /headamp/050 +38.5 OFF
 /headamp/051 +0.0 OFF
-/headamp/052 +35.0 OFF
+/headamp/052 +60.0 OFF
 /headamp/053 +44.0 OFF
 /headamp/054 +33.0 OFF
 /headamp/055 +39.0 OFF
 /headamp/056 +0.0 OFF
 /headamp/057 +0.0 OFF
 /headamp/058 +0.0 OFF
-/headamp/059 +0.0 OFF
-/headamp/060 +0.0 ON
-/headamp/061 +0.0 OFF
+/headamp/059 +33.0 ON
+/headamp/060 +37.0 ON
+/headamp/061 +0.0 ON
 /headamp/062 +29.5 OFF
 /headamp/063 +22.5 OFF
 /headamp/064 +0.0 OFF

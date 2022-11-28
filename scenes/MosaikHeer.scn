@@ -806,20 +806,20 @@
 /ch/24/automix OFF  +0.0
 /ch/25/config "PC L" 1 BL 35
 /ch/25/delay ON 390.8
-/ch/25/preamp +2.5 OFF OFF 24  92
+/ch/25/preamp +11.0 OFF OFF 24  92
 /ch/25/gate OFF GATE -80.0 60.0 1  502  983 0
 /ch/25/gate/filter OFF 3.0 990.9
 /ch/25/dyn OFF COMP PEAK LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /ch/25/dyn/filter OFF 3.0 990.9
 /ch/25/insert OFF POST OFF
 /ch/25/eq ON
-/ch/25/eq/1 LShv 98.0 -7.75 2.0
+/ch/25/eq/1 LShv 98.0 -4.50 2.0
 /ch/25/eq/2 PEQ 496.6 +0.00 2.0
 /ch/25/eq/3 PEQ 1k97 +0.00 2.0
 /ch/25/eq/4 HShv 10k02 +0.00 2.0
-/ch/25/mix ON   -oo ON -100 ON  -8.0
-/ch/25/mix/01 ON -20.5 -100 POST 0
-/ch/25/mix/02 ON -20.5
+/ch/25/mix ON  -1.0 ON -100 ON  -8.0
+/ch/25/mix/01 ON -20.0 -100 POST 0
+/ch/25/mix/02 ON -20.0
 /ch/25/mix/03 ON -20.0 -100 POST 0
 /ch/25/mix/04 ON -20.0
 /ch/25/mix/05 ON -20.0 -100 POST 0
@@ -828,8 +828,8 @@
 /ch/25/mix/08 ON -20.0
 /ch/25/mix/09 ON -20.0 -100 POST 0
 /ch/25/mix/10 ON -20.0
-/ch/25/mix/11 ON  -3.3 -100 POST 0
-/ch/25/mix/12 ON  -3.3
+/ch/25/mix/11 ON   -oo -100 POST 0
+/ch/25/mix/12 ON   -oo
 /ch/25/mix/13 OFF   -oo +0 POST 0
 /ch/25/mix/14 OFF   -oo
 /ch/25/mix/15 OFF   -oo +0 POST 0
@@ -838,20 +838,20 @@
 /ch/25/automix OFF  +0.0
 /ch/26/config "PC R" 1 BL 36
 /ch/26/delay ON 390.8
-/ch/26/preamp +2.5 OFF OFF 24  92
+/ch/26/preamp +11.0 OFF OFF 24  92
 /ch/26/gate OFF GATE -80.0 60.0 1  502  983 0
 /ch/26/gate/filter OFF 3.0 990.9
 /ch/26/dyn OFF COMP PEAK LOG 0.0 3.0 1 0.00 10 10.0  151 POST 0 100 OFF
 /ch/26/dyn/filter OFF 3.0 990.9
 /ch/26/insert OFF POST OFF
 /ch/26/eq ON
-/ch/26/eq/1 LShv 98.0 -7.75 2.0
+/ch/26/eq/1 LShv 98.0 -4.50 2.0
 /ch/26/eq/2 PEQ 496.6 +0.00 2.0
 /ch/26/eq/3 PEQ 1k97 +0.00 2.0
 /ch/26/eq/4 HShv 10k02 +0.00 2.0
-/ch/26/mix ON   -oo ON +100 ON  -8.0
-/ch/26/mix/01 ON -20.5 +100 POST 0
-/ch/26/mix/02 ON -20.5
+/ch/26/mix ON  -1.0 ON +100 ON  -8.0
+/ch/26/mix/01 ON -20.0 +100 POST 0
+/ch/26/mix/02 ON -20.0
 /ch/26/mix/03 ON -20.0 +100 POST 0
 /ch/26/mix/04 ON -20.0
 /ch/26/mix/05 ON -20.0 +100 POST 0
@@ -860,8 +860,8 @@
 /ch/26/mix/08 ON -20.0
 /ch/26/mix/09 ON -20.0 +100 POST 0
 /ch/26/mix/10 ON -20.0
-/ch/26/mix/11 ON  -3.3 +100 POST 0
-/ch/26/mix/12 ON  -3.3
+/ch/26/mix/11 ON   -oo +100 POST 0
+/ch/26/mix/12 ON   -oo
 /ch/26/mix/13 OFF   -oo +0 POST 0
 /ch/26/mix/14 OFF   -oo
 /ch/26/mix/15 OFF   -oo +0 POST 0

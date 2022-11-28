@@ -1643,7 +1643,7 @@
 /bus/10/mix/06 ON   -oo
 /bus/10/grp %00000000 %000000
 /bus/11/config "Stream L" 1 WH
-/bus/11/dyn ON COMP RMS LOG -17.0 7.0 5 2.00 10 10.0  151 POST 0 100 ON
+/bus/11/dyn ON COMP RMS LOG -31.5 7.0 5 6.00 10 10.0  151 POST 0 100 ON
 /bus/11/dyn/filter OFF 3.0 990.9
 /bus/11/insert OFF POST OFF
 /bus/11/eq OFF
@@ -1662,7 +1662,7 @@
 /bus/11/mix/06 ON  +0.5
 /bus/11/grp %00000000 %000000
 /bus/12/config "Stream R" 1 WH
-/bus/12/dyn ON COMP RMS LOG -17.0 7.0 5 2.00 10 10.0  151 POST 0 100 ON
+/bus/12/dyn ON COMP RMS LOG -31.5 7.0 5 6.00 10 10.0  151 POST 0 100 ON
 /bus/12/dyn/filter OFF 3.0 990.9
 /bus/12/insert OFF POST OFF
 /bus/12/eq OFF
@@ -1814,7 +1814,7 @@
 /mtx/04/grp %00000000 %000000
 /mtx/05/config "STREAM L" 1 WHi
 /mtx/05/preamp OFF
-/mtx/05/dyn ON COMP PEAK LOG -6.0 5.0 2 0.00 6 10.0  198 POST 100 OFF
+/mtx/05/dyn ON COMP PEAK LOG -10.0 5.0 0 0.00 6 10.0  241 POST 100 OFF
 /mtx/05/dyn/filter OFF 3.0 990.9
 /mtx/05/insert ON POST FX4L
 /mtx/05/eq OFF
@@ -1828,7 +1828,7 @@
 /mtx/05/grp %00000000 %000000
 /mtx/06/config "STREAM R" 1 WHi
 /mtx/06/preamp OFF
-/mtx/06/dyn ON COMP PEAK LOG -6.0 5.0 2 0.00 6 10.0  198 POST 100 OFF
+/mtx/06/dyn ON COMP PEAK LOG -10.0 5.0 0 0.00 6 10.0  241 POST 100 OFF
 /mtx/06/dyn/filter OFF 3.0 990.9
 /mtx/06/insert ON POST FX4R
 /mtx/06/eq OFF

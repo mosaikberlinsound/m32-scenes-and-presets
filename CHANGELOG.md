@@ -4,7 +4,15 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [7.0.1](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v7.0.0...v7.0.1) (2022-11-28)
 
+
 ## [7.0.0](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v6.0.3...v7.0.0) (2022-11-28)
+
+
+### [6.0.5](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v6.0.4...v6.0.5) (2022-11-28)
+
+
+### [6.0.4](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v6.0.3...v6.0.4) (2022-11-28)
+
 
 ### [6.0.3](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v6.0.2...v6.0.3) (2022-10-09)
 

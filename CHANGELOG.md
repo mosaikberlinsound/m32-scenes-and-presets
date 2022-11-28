@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [7.0.7](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v7.0.6...v7.0.7) (2022-11-28)
+
+
+### Bug Fixes
+
+* Added new patch field ([d8a25da](https://github.com/mosaikberlinsound/m32-scenes-and-presets/commit/d8a25da1a00569374d7e5a56a8907fbe6a67d8c8))
+
 ### [7.0.6](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v7.0.5...v7.0.6) (2022-11-28)
 
 ### [7.0.5](https://github.com/mosaikberlinsound/m32-scenes-and-presets/compare/v7.0.4...v7.0.5) (2022-11-28)

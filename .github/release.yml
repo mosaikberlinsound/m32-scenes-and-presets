@@ -1,0 +1,31 @@
+# .github/release.yml
+
+changelog:
+  exclude:
+    labels:
+      - ignore-for-release
+  categories:
+    - title: Breaking Changes 🛠 (new patch sheet required for musicians)
+      labels:
+        - breaking-change
+    - title: Exciting New Features 🎉
+      labels:
+        - enhancement
+    - title: Changes specific to drums 🥁
+      labels:
+        - drums
+    - title: Changes specific to instruments (not drums) 🎸🎹
+      labels:
+        - instruments
+    - title: Changes specific to vocals 👩‍🎤
+      labels:
+        - vocals
+    - title: Changes specific to spoken words (host or preacher) 🧑‍⚖️
+      labels:
+        - spoken-word
+    - title: Changes specific to livestream 📺
+      labels:
+        - livestream
+    - title: Other Changes
+      labels:
+        - "*"

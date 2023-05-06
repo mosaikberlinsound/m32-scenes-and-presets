@@ -2,7 +2,7 @@
 /config/chlink OFF OFF ON OFF OFF ON ON OFF OFF OFF OFF OFF ON OFF ON OFF
 /config/auxlink OFF OFF ON ON
 /config/fxlink ON ON ON ON
-/config/buslink ON ON ON OFF OFF ON OFF OFF
+/config/buslink ON ON ON ON OFF ON OFF OFF
 /config/mtxlink OFF OFF ON
 /config/mute OFF OFF OFF OFF OFF OFF
 /config/linkcfg ON ON ON ON
@@ -1490,7 +1490,7 @@
 /bus/02/mix/05 OFF   -oo +100 POST 0
 /bus/02/mix/06 OFF   -oo
 /bus/02/grp %00000000 %000000
-/bus/03/config "Guitar L" 1 CY
+/bus/03/config "Bass L" 1 CY
 /bus/03/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  504 POST 0 100 OFF
 /bus/03/dyn/filter OFF 3.0 990.9
 /bus/03/insert OFF POST OFF
@@ -1509,7 +1509,7 @@
 /bus/03/mix/05 OFF   -oo -100 POST 0
 /bus/03/mix/06 OFF   -oo
 /bus/03/grp %00000000 %000000
-/bus/04/config "Guitar R" 1 CY
+/bus/04/config "Bass R" 1 CY
 /bus/04/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  504 POST 0 100 OFF
 /bus/04/dyn/filter OFF 3.0 990.9
 /bus/04/insert OFF POST OFF
@@ -1528,7 +1528,7 @@
 /bus/04/mix/05 OFF   -oo +100 POST 0
 /bus/04/mix/06 OFF   -oo
 /bus/04/grp %00000000 %000000
-/bus/05/config "Keys L" 1 CY
+/bus/05/config "Git L" 1 CY
 /bus/05/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  504 POST 0 100 OFF
 /bus/05/dyn/filter OFF 3.0 990.9
 /bus/05/insert OFF POST OFF
@@ -1547,7 +1547,7 @@
 /bus/05/mix/05 ON   -oo -100 POST 0
 /bus/05/mix/06 ON   -oo
 /bus/05/grp %00000000 %000000
-/bus/06/config "Keys R" 1 CY
+/bus/06/config "Git R" 1 CY
 /bus/06/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  504 POST 0 100 OFF
 /bus/06/dyn/filter OFF 3.0 990.9
 /bus/06/insert OFF POST OFF
@@ -1566,7 +1566,7 @@
 /bus/06/mix/05 ON   -oo +100 POST 0
 /bus/06/mix/06 ON   -oo
 /bus/06/grp %00000000 %000000
-/bus/07/config "Bass" 1 CY
+/bus/07/config "Keys L" 1 CY
 /bus/07/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  504 POST 0 100 OFF
 /bus/07/dyn/filter OFF 3.0 990.9
 /bus/07/insert OFF POST OFF
@@ -1582,10 +1582,10 @@
 /bus/07/mix/02 OFF   -oo
 /bus/07/mix/03 OFF   -oo -100 POST 0
 /bus/07/mix/04 OFF   -oo
-/bus/07/mix/05 OFF   -oo +0 POST 0
-/bus/07/mix/06 OFF   -oo
+/bus/07/mix/05 ON   -oo -100 POST 0
+/bus/07/mix/06 ON   -oo
 /bus/07/grp %00000000 %000000
-/bus/08/config "Voc 1" 1 CY
+/bus/08/config "Keys R" 1 CY
 /bus/08/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  504 POST 0 100 OFF
 /bus/08/dyn/filter OFF 3.0 990.9
 /bus/08/insert OFF POST OFF
@@ -1601,10 +1601,10 @@
 /bus/08/mix/02 OFF   -oo
 /bus/08/mix/03 OFF   -oo +100 POST 0
 /bus/08/mix/04 OFF   -oo
-/bus/08/mix/05 OFF   -oo +0 POST 0
-/bus/08/mix/06 OFF   -oo
+/bus/08/mix/05 ON   -oo +100 POST 0
+/bus/08/mix/06 ON   -oo
 /bus/08/grp %00000000 %000000
-/bus/09/config "Voc 2" 1 CY
+/bus/09/config "Vox 1" 1 CY
 /bus/09/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  504 POST 0 100 OFF
 /bus/09/dyn/filter OFF 3.0 990.9
 /bus/09/insert OFF POST OFF
@@ -1623,7 +1623,7 @@
 /bus/09/mix/05 ON   -oo +0 POST 0
 /bus/09/mix/06 ON   -oo
 /bus/09/grp %00000000 %000000
-/bus/10/config "Voc 3" 1 CY
+/bus/10/config "Vox 2" 1 CY
 /bus/10/dyn ON COMP RMS LOG -1.0 100 0 0.00 0 0.02  504 POST 0 100 OFF
 /bus/10/dyn/filter OFF 3.0 990.9
 /bus/10/insert OFF POST OFF

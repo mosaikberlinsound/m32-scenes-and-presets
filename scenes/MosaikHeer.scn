@@ -998,17 +998,17 @@
 /ch/30/automix OFF  +0.0
 /ch/31/config "HandH" 1 YEi 31
 /ch/31/delay OFF   0.3
-/ch/31/preamp -18.0 OFF ON 24 110
-/ch/31/gate ON EXP4 -48.5 12.0 5  112  441 0
+/ch/31/preamp -18.0 OFF ON 24 168
+/ch/31/gate ON EXP4 -43.5 12.0 2  112  441 0
 /ch/31/gate/filter OFF 3.0 990.9
-/ch/31/dyn ON COMP PEAK LOG -27.0 4.0 5 3.00 10 0.02  40 POST 0 100 ON
+/ch/31/dyn ON COMP PEAK LOG -27.0 5.0 5 3.50 10 0.02  40 POST 0 100 ON
 /ch/31/dyn/filter OFF 3.0 990.9
-/ch/31/insert ON PRE FX7L
+/ch/31/insert OFF PRE FX7L
 /ch/31/eq ON
-/ch/31/eq/1 LShv 306.2 -2.00 3.4
-/ch/31/eq/2 PEQ 479.8 -7.75 0.8
-/ch/31/eq/3 PEQ 1k55 -1.25 1.3
-/ch/31/eq/4 HShv 5k20 +5.00 2.0
+/ch/31/eq/1 PEQ 216.8 -3.50 1.2
+/ch/31/eq/2 PEQ 590.2 -8.00 1.5
+/ch/31/eq/3 PEQ 1k78 -2.00 1.3
+/ch/31/eq/4 PEQ 3k55 -4.25 2.0
 /ch/31/mix ON   -oo ON +0 OFF -21.0
 /ch/31/mix/01 ON -15.0 +0 POST 0
 /ch/31/mix/02 ON -15.0
@@ -1030,17 +1030,17 @@
 /ch/31/automix OFF  +0.0
 /ch/32/config "Preacher" 1 YEi 32
 /ch/32/delay OFF   0.3
-/ch/32/preamp -18.0 OFF ON 24 124
-/ch/32/gate ON EXP3 -34.0 12.0 2 2.00  412 0
+/ch/32/preamp -18.0 OFF ON 24 153
+/ch/32/gate ON EXP3 -31.0 12.0 2 2.00  412 0
 /ch/32/gate/filter OFF 3.0 990.9
-/ch/32/dyn ON COMP RMS LOG -34.0 4.0 5 0.00 51 0.02  226 POST 0 100 OFF
+/ch/32/dyn ON COMP RMS LOG -31.0 4.0 5 0.00 51 0.02  226 POST 0 100 OFF
 /ch/32/dyn/filter OFF 3.0 990.9
 /ch/32/insert ON PRE FX7R
 /ch/32/eq ON
-/ch/32/eq/1 PEQ 176.2 -3.75 1.8
-/ch/32/eq/2 PEQ 363.9 -4.00 1.4
-/ch/32/eq/3 PEQ 2k99 -4.00 1.0
-/ch/32/eq/4 HShv 6k18 -2.25 2.0
+/ch/32/eq/1 PEQ 202.3 -4.25 1.1
+/ch/32/eq/2 PEQ 432.5 -5.75 0.9
+/ch/32/eq/3 PEQ 990.9 -3.50 1.8
+/ch/32/eq/4 HShv 5k38 -6.25 1.5
 /ch/32/mix ON   -oo ON +0 ON -28.5
 /ch/32/mix/01 ON -15.0 +0 POST 0
 /ch/32/mix/02 ON -15.0
@@ -1816,7 +1816,7 @@
 /mtx/05/preamp OFF
 /mtx/05/dyn ON COMP PEAK LOG -10.0 10 0 0.00 6 10.0  241 POST 100 OFF
 /mtx/05/dyn/filter OFF 3.0 990.9
-/mtx/05/insert ON POST FX4L
+/mtx/05/insert OFF POST FX4L
 /mtx/05/eq OFF
 /mtx/05/eq/1 LShv 79.6 +0.00 2.0
 /mtx/05/eq/2 PEQ 158.9 +0.00 2.0
@@ -1830,7 +1830,7 @@
 /mtx/06/preamp OFF
 /mtx/06/dyn ON COMP PEAK LOG -10.0 10 0 0.00 6 10.0  241 POST 100 OFF
 /mtx/06/dyn/filter OFF 3.0 990.9
-/mtx/06/insert ON POST FX4R
+/mtx/06/insert OFF POST FX4R
 /mtx/06/eq OFF
 /mtx/06/eq/1 LShv 79.6 +0.00 2.0
 /mtx/06/eq/2 PEQ 158.9 +0.00 2.0
@@ -1911,7 +1911,7 @@
 /fx/6 ULC2
 /fx/6/par ON -19 -23 3.0 1.9 ALL ON -31 -21 3.0 5.0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 /fx/7 GEQ2
-/fx/7/par 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.0 -1.0 -3.0 -2.5 -3.5 -5.5 -7.0 -6.0 -2.0 0.5 -1.5 -2.0 1.0 0.5 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+/fx/7/par 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
 /fx/8 TEQ
 /fx/8/par 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 /outputs/main/01 4 POST OFF

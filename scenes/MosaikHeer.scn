@@ -36,7 +36,7 @@
 /config/dp48/assign 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 /config/dp48/link 1 1 1 1 0 1 0 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
 /config/dp48/grpname "" "" "" "" "" "" "" "" "" "" "" ""
-/ch/01/config "Kick" 1 RD 1
+/ch/01/config "KickBody" 1 RD 1
 /ch/01/delay OFF   0.3
 /ch/01/preamp -18.0 OFF ON 24  82
 /ch/01/gate ON GATE -52.0 42.0 1 5.02  25 0
@@ -68,7 +68,7 @@
 /ch/01/mix/16 ON   -oo
 /ch/01/grp %00000001 %000000
 /ch/01/automix OFF -12.0
-/ch/02/config "KickIn" 1 RD 2
+/ch/02/config "KickKick" 1 RD 2
 /ch/02/delay OFF   0.3
 /ch/02/preamp -18.0 OFF ON 24  62
 /ch/02/gate ON GATE -45.5 42.0 1 5.02  72 0

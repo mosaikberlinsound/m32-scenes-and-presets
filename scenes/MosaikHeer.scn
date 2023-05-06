@@ -555,7 +555,7 @@
 /ch/17/gate/filter OFF 3.0 990.9
 /ch/17/dyn ON COMP PEAK LOG -20.5 3.0 4 3.50 22 0.02  37 POST 0 100 OFF
 /ch/17/dyn/filter ON 2.0 1k97
-/ch/17/insert OFF POST FX5L
+/ch/17/insert ON POST FX5L
 /ch/17/eq ON
 /ch/17/eq/1 PEQ 148.3 -7.25 6.4
 /ch/17/eq/2 PEQ 363.9 -11.2 2.0
@@ -587,7 +587,7 @@
 /ch/18/gate/filter OFF 3.0 990.9
 /ch/18/dyn ON COMP PEAK LOG -18.5 3.0 4 2.00 10 0.02  40 POST 0 100 OFF
 /ch/18/dyn/filter ON 1.0 1k97
-/ch/18/insert OFF POST FX5R
+/ch/18/insert ON POST FX5R
 /ch/18/eq ON
 /ch/18/eq/1 PEQ 124.7 +0.00 2.0
 /ch/18/eq/2 PEQ 463.5 -9.75 2.0
@@ -1907,7 +1907,7 @@
 /fx/4/source INS INS
 /fx/4/par ON OFF 100 5 181 ON 2 ON 0 48 3 -13.0 1.5 0.0 0.0 0 0.0 0.0 0 0.0 0.0 0 0.0 0.0 0 0.0 0.0 0 GR 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 /fx/5 LEC2
-/fx/5/par ON 40 30 COMP 0.0 ON 40 30 COMP 0.0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/fx/5/par ON 62 58 COMP 0.0 ON 40 36 COMP 0.0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 /fx/6 ULC2
 /fx/6/par ON -19 -23 3.0 1.9 ALL ON -31 -21 3.0 5.0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 /fx/7 GEQ2

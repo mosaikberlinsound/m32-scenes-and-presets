@@ -1262,11 +1262,11 @@
 /auxin/08/grp %00001000 %000000
 /fxrtn/01/config "room rev" 1 MG
 /fxrtn/01/eq ON
-/fxrtn/01/eq/1 LCut 176.2 +0.00 2.0
-/fxrtn/01/eq/2 PEQ 496.6 +0.00 2.0
+/fxrtn/01/eq/1 LCut 116.4 +1.75 2.0
+/fxrtn/01/eq/2 PEQ 751.7 -2.50 1.2
 /fxrtn/01/eq/3 PEQ 1k97 +0.00 2.0
-/fxrtn/01/eq/4 HShv 10k02 +0.00 2.0
-/fxrtn/01/mix ON   0.0 OFF -100 OFF   -oo
+/fxrtn/01/eq/4 HShv 7k87 -9.25 2.0
+/fxrtn/01/mix ON  +0.7 OFF -100 OFF   -oo
 /fxrtn/01/mix/01 ON   -oo -100 POST 0
 /fxrtn/01/mix/02 ON   -oo
 /fxrtn/01/mix/03 ON   -oo -100 POST 0
@@ -1277,8 +1277,8 @@
 /fxrtn/01/mix/08 ON   -oo
 /fxrtn/01/mix/09 ON   -oo -100 POST 0
 /fxrtn/01/mix/10 ON   -oo
-/fxrtn/01/mix/11 ON  -4.8 -100 POST 0
-/fxrtn/01/mix/12 ON  -4.8
+/fxrtn/01/mix/11 ON  -6.8 -100 POST 0
+/fxrtn/01/mix/12 ON  -6.8
 /fxrtn/01/mix/13 OFF   -oo -100 POST 0
 /fxrtn/01/mix/14 OFF   -oo
 /fxrtn/01/mix/15 OFF   -oo -100 POST 0
@@ -1286,11 +1286,11 @@
 /fxrtn/01/grp %00000000 %000000
 /fxrtn/02/config "room rev" 1 MG
 /fxrtn/02/eq ON
-/fxrtn/02/eq/1 LCut 176.2 +0.00 2.0
-/fxrtn/02/eq/2 PEQ 496.6 +0.00 2.0
+/fxrtn/02/eq/1 LCut 116.4 +1.75 2.0
+/fxrtn/02/eq/2 PEQ 751.7 -2.50 1.2
 /fxrtn/02/eq/3 PEQ 1k97 +0.00 2.0
-/fxrtn/02/eq/4 HShv 10k02 +0.00 2.0
-/fxrtn/02/mix ON   0.0 OFF +100 OFF   -oo
+/fxrtn/02/eq/4 HShv 7k87 -9.25 2.0
+/fxrtn/02/mix ON  +0.7 OFF +100 OFF   -oo
 /fxrtn/02/mix/01 ON   -oo +100 POST 0
 /fxrtn/02/mix/02 ON   -oo
 /fxrtn/02/mix/03 ON   -oo +100 POST 0
@@ -1301,8 +1301,8 @@
 /fxrtn/02/mix/08 ON   -oo
 /fxrtn/02/mix/09 ON   -oo +100 POST 0
 /fxrtn/02/mix/10 ON   -oo
-/fxrtn/02/mix/11 ON  -4.8 +100 POST 0
-/fxrtn/02/mix/12 ON  -4.8
+/fxrtn/02/mix/11 ON  -6.8 +100 POST 0
+/fxrtn/02/mix/12 ON  -6.8
 /fxrtn/02/mix/13 OFF   -oo +100 POST 0
 /fxrtn/02/mix/14 OFF   -oo
 /fxrtn/02/mix/15 OFF   -oo +100 POST 0
@@ -1310,11 +1310,11 @@
 /fxrtn/02/grp %00000000 %000000
 /fxrtn/03/config "vox rev" 1 MG
 /fxrtn/03/eq ON
-/fxrtn/03/eq/1 LCut 164.4 +0.00 2.0
-/fxrtn/03/eq/2 PEQ 317.0 -11.7 0.6
-/fxrtn/03/eq/3 PEQ 990.9 +2.50 0.8
-/fxrtn/03/eq/4 HShv 3k94 -10.7 2.0
-/fxrtn/03/mix ON   0.0 ON -100 OFF   -oo
+/fxrtn/03/eq/1 LCut 188.8 +0.00 2.0
+/fxrtn/03/eq/2 PEQ 317.0 -7.50 0.6
+/fxrtn/03/eq/3 PEQ 1k09 +1.75 0.8
+/fxrtn/03/eq/4 HShv 4k22 -10.5 2.0
+/fxrtn/03/mix ON  +0.9 ON -100 OFF   -oo
 /fxrtn/03/mix/01 ON   -oo -100 POST 0
 /fxrtn/03/mix/02 ON   -oo
 /fxrtn/03/mix/03 ON   -oo -100 POST 0
@@ -1325,8 +1325,8 @@
 /fxrtn/03/mix/08 ON   -oo
 /fxrtn/03/mix/09 ON -21.0 -100 POST 0
 /fxrtn/03/mix/10 ON -21.0
-/fxrtn/03/mix/11 ON  -4.8 -100 POST 0
-/fxrtn/03/mix/12 ON  -4.8
+/fxrtn/03/mix/11 ON  -4.5 -100 POST 0
+/fxrtn/03/mix/12 ON  -4.5
 /fxrtn/03/mix/13 OFF   -oo -100 POST 0
 /fxrtn/03/mix/14 OFF   -oo
 /fxrtn/03/mix/15 OFF   -oo -100 POST 0
@@ -1334,11 +1334,11 @@
 /fxrtn/03/grp %00000000 %000000
 /fxrtn/04/config "vox rev" 1 MG
 /fxrtn/04/eq ON
-/fxrtn/04/eq/1 LCut 164.4 +0.00 2.0
-/fxrtn/04/eq/2 PEQ 317.0 -11.7 0.6
-/fxrtn/04/eq/3 PEQ 990.9 +2.50 0.8
-/fxrtn/04/eq/4 HShv 3k94 -10.7 2.0
-/fxrtn/04/mix ON   0.0 ON +100 OFF   -oo
+/fxrtn/04/eq/1 LCut 188.8 +0.00 2.0
+/fxrtn/04/eq/2 PEQ 317.0 -7.50 0.6
+/fxrtn/04/eq/3 PEQ 1k09 +1.75 0.8
+/fxrtn/04/eq/4 HShv 4k22 -10.5 2.0
+/fxrtn/04/mix ON  +0.9 ON +100 OFF   -oo
 /fxrtn/04/mix/01 ON   -oo +100 POST 0
 /fxrtn/04/mix/02 ON   -oo
 /fxrtn/04/mix/03 ON   -oo +100 POST 0
@@ -1349,8 +1349,8 @@
 /fxrtn/04/mix/08 ON   -oo
 /fxrtn/04/mix/09 ON -21.0 +0 POST 0
 /fxrtn/04/mix/10 ON -21.0
-/fxrtn/04/mix/11 ON  -4.8 +100 POST 0
-/fxrtn/04/mix/12 ON  -4.8
+/fxrtn/04/mix/11 ON  -4.5 +100 POST 0
+/fxrtn/04/mix/12 ON  -4.5
 /fxrtn/04/mix/13 OFF   -oo +100 POST 0
 /fxrtn/04/mix/14 OFF   -oo
 /fxrtn/04/mix/15 OFF   -oo +100 POST 0
@@ -1892,14 +1892,14 @@
 /dca/6/config "Effects" 1 MG
 /dca/7 ON   -oo
 /dca/7/config "SPEACH" 1 YEi
-/dca/8 ON  +0.0
+/dca/8 ON  -5.0
 /dca/8/config "Audience" 1 WHi
-/fx/1 CHAM
+/fx/1 AMBI
 /fx/1/source MIX14 MIX14
-/fx/1/par 14 1.56 56 4k47 100 0.0 60 5k0 1.00 33 70 50 115 135 54 66 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
-/fx/2 VRM
+/fx/1/par 28 1.61 60 5k74 30 0.0 71 7k9 34 72 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/fx/2 RPLT
 /fx/2/source MIX15 MIX15
-/fx/2/par 16 2.67 58 30 4 4.5 0.83 0.76 132 3k4 28 34 OFF 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+/fx/2/par 10 2.69 30 3k48 100 0.0 89 5k0 0.81 18 26 50 90 80 34 -28 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 /fx/3 D/CR
 /fx/3/source MIX16 MIX16
 /fx/3/par 1754 1 2k0 0.0 74 -40 0.66 70 15.1 100 100 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0

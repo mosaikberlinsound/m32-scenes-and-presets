@@ -26,6 +26,9 @@ changelog:
     - title: Changes specific to livestream 📺
       labels:
         - livestream
+    - title: Changes specific to in ear monitors 🎧
+      labels:
+        - in-ears
     - title: Other Changes
       labels:
         - "*"

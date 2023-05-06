@@ -1841,17 +1841,17 @@
 /mtx/06/mix ON  -8.0
 /mtx/06/grp %00000000 %000000
 /main/st/config "" 66 WH
-/main/st/dyn ON COMP RMS LOG -12.5 7.0 5 2.00 10 10.0  151 POST 100 ON
+/main/st/dyn ON COMP RMS LOG -20.5 7.0 5 2.00 10 10.0  151 POST 100 ON
 /main/st/dyn/filter OFF 3.0 990.9
 /main/st/insert ON PRE FX8L
-/main/st/eq OFF
+/main/st/eq ON
 /main/st/eq/1 LCut 101.4 +0.00  10
-/main/st/eq/2 PEQ 158.9 +0.00 2.0
-/main/st/eq/3 PEQ 496.6 +0.00 2.0
-/main/st/eq/4 PEQ 1k97 +0.00 2.0
-/main/st/eq/5 PEQ 5k02 +0.00 2.0
-/main/st/eq/6 HShv 10k02 +0.00 2.0
-/main/st/mix ON  -1.0 +0
+/main/st/eq/2 PEQ 158.9 -0.50 2.0
+/main/st/eq/3 PEQ 403.7 -3.25 0.7
+/main/st/eq/4 PEQ 1k97 -2.00 0.6
+/main/st/eq/5 PEQ 4k52 +2.25 0.9
+/main/st/eq/6 HShv 10k02 +2.00 2.0
+/main/st/mix ON   0.0 +0
 /main/st/mix/01 ON   0.0 +0 POST 0
 /main/st/mix/02 ON   0.0
 /main/st/mix/03 ON   0.0 +0 POST 0
